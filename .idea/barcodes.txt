@@ -1,5 +1,501 @@
 URL, Product Name, Price, Barcode
-https://www.paguemenos.com.br/inalador-nebulizador-pague-menos-portatil-ultrassonico-mesh-nb1100/p?skuId=100141, Inalador/Nebulizador Pague Menos Portátil Ultrassônico Mesh NB1100, R$ 169,99, 7898727351795
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-giga-tamanho-xxg-com-60-unidades/p, Fralda Pampers Confort Sec XXG 60 Unidades, R$ 122,99, 7500435153386
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-xxg-56-unidades-o17a490578845z57/p, Fralda Pampers Confort Sec - XXG - 56 Unidades, R$ 140,90, 7500435132619
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-p-72-unidades/p, Fralda Pampers Confort Sec P 72 Unidades, R$ 112,99, 7500435181297
+https://www.paguemenos.com.br/minoxihard-capilar-oral-60-capsulas-16983g422727kd77/p, Minoxihard Capilar Oral 60 Cápsulas, R$ 127,74, 7908650106925
+https://www.paguemenos.com.br/protetor-solar-12hs-clareador-com-vitamina-c-e-niacinamida-biosole-oxy-fps-50-40ml-170qn0q747129170/p, Protetor Solar 12HS Clareador com Vitamina C e Niacinamida  Biosole Oxy FPS 50 - 40ml, R$ 187,50, 7896768494518
+https://www.paguemenos.com.br/protetor-solar-labial-dermachem-morango-fps24-3-5g-17126e68t66z9931/p, Protetor Solar Labial Dermachem Morango Fps24 3,5g, R$ 17,99, 7908346903432
+https://www.paguemenos.com.br/protetor-solar-labial-dermachem-tutti-frutt-fps24-3-5g-171w26e6w8669978/p, Protetor Solar Labial Dermachem Tutti Frutt Fps24 3,5g, R$ 22,99, 7908346903456
+https://www.paguemenos.com.br/sabonete-ultra-hidratante-rosa-mosqueta-100ml-1712t668s74838h6/p, Sabonete Ultra Hidratante Rosa Mosqueta 100ml, R$ 15,90, 7908346900660
+https://www.paguemenos.com.br/shiseido-urban-environment-age-defense-oil-free-spf30-protetor-solar-facial-urbano-30ml-17108zx2840m0045/p, Shiseido Urban Environment Age Defense Oil Free SPF30 - Protetor Solar Facial Urbano 30ml, R$ 319,00, 768614182092
+https://www.paguemenos.com.br/catharine-hill-carvao-ativado-detox-esfoliante-facial-60g-1d70697e1p403791/p, Catharine Hill Carvão Ativado Detox - Esfoliante Facial 60g, R$ 59,00, 7898600993494
+https://www.paguemenos.com.br/catharine-hill-carvao-ativado-detox-sabonete-liquido-facial-100ml-1w70688509s41v02/p, Catharine Hill Carvão Ativado Detox - Sabonete Líquido Facial 100ml, R$ 67,00, 7898600994095
+https://www.paguemenos.com.br/protetor-solar-12hs-defesa-antioxidante-e-anti-idade-dna-protection-biosole-av-fps-50-50ml-1e70y07471q28736/p, Protetor Solar 12HS Defesa Antioxidante e Anti-idade DNA Protection Biosole AV FPS 50 - 50ml, R$ 181,25, 7896768494327
+https://www.paguemenos.com.br/protetor-solar-12hs-pele-oleosa-normalize-solar-oil-control-fps-50-40ml-1g7g0g0747129748/p, Protetor Solar 12HS Pele Oleosa Normalize Solar Oil Control FPS 50 - 40ml, R$ 181,25, 7896768499476
+https://www.paguemenos.com.br/gel-creme-com-vitamina-c-20-30g-169j8342b15416j4/p, Gel Creme com Vitamina C 20% 30g, R$ 164,66, 7908650104303
+https://www.paguemenos.com.br/delice-solaire-latte-solare-bebe-fps-50-uva-protetor-solar-100ml-17c0432045rk7306/p, Delice Solaire Latte Solare Bebê Fps 50+ UVA - Protetor Solar 100ml, R$ 119,00, 8004120083433
+https://www.paguemenos.com.br/ciclo-sunset-locao-hidratante-240ml-1q70134401cw7441/p, Ciclo Sunset Loção Hidratante 240ml, R$ 59,00, 7898410315073
+https://www.paguemenos.com.br/parafina-bronze-fps8-creme-bronzeador-120g-1r701343c9222e06/p, Parafina Bronze FPS8 - Creme Bronzeador 120g, R$ 119,00, 7898522922992
+https://www.paguemenos.com.br/delice-solaire-latte-solare-bambini-fps-50-uva-protetor-solar-spray-150ml-s17030993s2g0043/p, Delice Solaire Latte Solare Bambini Fps 50+ UVA - Protetor Solar Spray 150ml, R$ 132,00, 8004120906961
+https://www.paguemenos.com.br/vitamina-c-com-protetor-solar-12hs-fps-50-antioxidante-clareador-pure-c-fps-50-50ml-17007r4ug7128702/p, Vitamina C Com Protetor Solar 12HS FPS 50 Antioxidante Clareador  Pure C FPS 50 - 50ml, R$ 193,50, 7896768497076
+https://www.paguemenos.com.br/protetor-solar-12hs-clareador-15-tipos-de-manchas-toque-seco-biosole-oxy-fps-85-1v701s7896z91724/p, Protetor Solar 12HS Clareador 15 Tipos De Manchas Toque Seco Biosole Oxy FPS 85, R$ 206,25, 7896768470925
+https://www.paguemenos.com.br/primoderm-hidratante-com-calendula-200ml-unidade-16984l3569222ou3/p, Primoderm Hidratante com Calêndula 200ml - unidade, R$ 32,37, 7898905620071
+https://www.paguemenos.com.br/skelt-hidratante-amalfi-sunset-laranja-hidratante-corporal-200g-1c70093921e923c7/p, Skelt Hidratante Amalfi Sunset Laranja - Hidratante Corporal 200g, R$ 149,00, 7898965429645
+https://www.paguemenos.com.br/parafina-bronze-manteiga-hidratante-corporal-120g-1700842l52h47r71/p, Parafina Bronze - Manteiga Hidratante Corporal 120g, R$ 109,00, 7898522924491
+https://www.paguemenos.com.br/protetor-solar-12hs-acne-cravos-poros-e-oleosidade-normalize-pore-control-fps-50-40ml-170j0747127u9t89/p, Protetor Solar 12HS Acne, Cravos, Poros e Oleosidade Normalize Pore Control FPS 50 - 40ml, R$ 181,25, 7896768499469
+https://www.paguemenos.com.br/protetor-solar-12hs-pele-oleosa-toque-super-seco-efeito-matte-biosole-mat-fps-50-40ml-1700h74b7127v979/p, Protetor Solar 12HS Pele Oleosa Toque Super Seco Efeito Matte  Biosole Mat FPS 50 - 40ml, R$ 181,25, 7896768497601
+https://www.paguemenos.com.br/protetor-solar-12hs-alta-protecao-anti-manchas-normalize-hydra-comfort-fps-90-40ml-1e7007e4712v8294/p, Protetor Solar 12HS Alta Proteção Anti-manchas Normalize Hydra Comfort FPS 90 - 40ml, R$ 193,75, 7896768499858
+https://www.paguemenos.com.br/protetor-solar-12hs-pele-oleosa-normalize-matte-intense-fps-50-40ml-17f0z074712w9160/p, Protetor Solar 12HS Pele Oleosa Normalize Matte Intense FPS 50 - 40ml, R$ 181,25, 7896768499537
+https://www.paguemenos.com.br/serum-b12-ultra-reparador-manchas-hidratacao-cicatrizes-e-vermelhidao-17007y47129pn648/p, Sérum B12 Ultra Reparador Manchas, Hidratação, Cicatrizes e Vermelhidão, R$ 325,00, 7896768470789
+https://www.paguemenos.com.br/ciclo-seduction-locao-hidratante-240ml-170x08427zn72005/p, Ciclo Seduction - Loção Hidratante 240ml, R$ 59,00, 7898410310771
+https://www.paguemenos.com.br/protetor-solar-12hs-fluido-com-cor-biosole-fluid-sun-color-defense-fps-98-cor-medio-claro-40ml-17o00747t1280f46/p, Protetor Solar 12HS Fluido Com Cor Biosole Fluid Sun Color Defense FPS 98 - Cor Médio Claro - 40ml, R$ 181,25, 7896768470048
+https://www.paguemenos.com.br/protetor-solar-12hs-bloqueio-anti-manchas-peles-sensiveis-a-queimaduras-solares-biosole-extreme-fps-99-40ml-1700747u12fd8648/p, Protetor Solar 12HS Bloqueio Anti-Manchas Peles Sensíveis A Queimaduras Solares Biosole Extreme FPS 99 - 40ml, R$ 206,25, 7896768470666
+https://www.paguemenos.com.br/protetor-solar-anti-manchas-12hs-toque-seco-pele-oleosa-normalize-extreme-protection-fps-99-40ml-1700747l12v95y66/p, Protetor Solar Anti-Manchas 12HS Toque Seco Pele Oleosa Normalize Extreme Protection FPS 99 - 40ml, R$ 193,75, 7896768470680
+https://www.paguemenos.com.br/gloss-com-acido-hialuronico-6ml-dourado-16c98342f2y72685/p, Gloss com Ácido Hialurônico 6ml Dourado, R$ 64,00, 7908650104587
+https://www.paguemenos.com.br/capsulas-para-combater-a-queda-capilar-60-capsulas-169834o226ol3342/p, Cápsulas para Combater a Queda Capilar 60 cápsulas, R$ 80,31, 7908650101623
+https://www.paguemenos.com.br/capsulas-da-beleza-glycoxil-com-silicio-organico-e-bio-arct-com-selo-de-autenticidade-30-capsulas-16983d42u26o3715/p, Glycoxil com Silicio Orgânico e Bio-Arct 30 Cápsulas da Beleza, R$ 268,00, 7908650101609
+https://www.paguemenos.com.br/composto-para-autopreenchimento-cutaneo-120-doses-169x8f34226271w8/p, Composto para Autopreenchimento Cutâneo 120 Doses, R$ 521,92, 7908650102408
+https://www.paguemenos.com.br/emulsao-toque-seco-com-essenskin-2-5-tratamento-especifico-para-pescoco-flacido-50g-s1z6983422628w12/p, Emulsão Toque Seco com Essenskin 2,5% Tratamento Específico para Pescoço Flácido 50g, R$ 113,48, 7908650103061
+https://www.paguemenos.com.br/acido-hialuronico-50mg-30-capsulas-g169834vt2124206/p, Ácido Hialurônico 50mg 30 Cápsulas, R$ 64,00, 7908650100251
+https://www.paguemenos.com.br/shampoo-anticaspa-octopirox-e-oleo-de-melaleuca-200ml-16983c4xj2187518/p, Shampoo Anticaspa com Octopirox e Óleo de Melaleuca 200ml, R$ 80,75, 7908650109162
+https://www.paguemenos.com.br/colageno-hidrolisado-250g-sabor-morango-16983422x62k3t73/p, Colágeno Hidrolisado 250g Sabor Morango, R$ 208,98, 7908650102200
+https://www.paguemenos.com.br/colageno-300mg-com-vitamina-c-300mg-120-doses-1698r3f42262u318/p, Colágeno 300mg com Vitamina C 300mg 120 Doses, R$ 81,50, 7908650102170
+https://www.paguemenos.com.br/cartidyss-200mg-60-capsulas-169834226q2w0k58/p, Cartidyss 200mg 60 Cápsulas, R$ 177,70, 7908650101753
+https://www.paguemenos.com.br/colageno-hidrolisado-250g-sabor-uva-16i9834m226s2345/p, Colágeno Hidrolisado 250g Sabor Uva, R$ 208,98, 7908650102217
+https://www.paguemenos.com.br/shampoo-anticaspa-octopirox-e-oleo-de-melaleuca-250ml-1t698om342270991/p, Shampoo Anticaspa com Octopirox e Óleo de Melaleuca 250ml, R$ 99,40, 7908650109179
+https://www.paguemenos.com.br/serum-para-crescimento-das-sobrancelhas-10ml-1698342j179xx368/p, Sérum para Crescimento das Sobrancelhas 10ml, R$ 64,00, 7908650109025
+https://www.paguemenos.com.br/protetor-solar-incolor-fps-50-169t83fg42274847/p, Protetor Solar FPS 50 sem cor 30 gramas, R$ 98,51, 7908650108363
+https://www.paguemenos.com.br/kit-cuidados-para-praia-bruma-hidratante-reconstrutor-capilar-protetor-labial-hidratante-16967x6v55943d53/p, Kit Cuidados Para Praia - Bruma Hidratante + Reconstrutor Capilar + Protetor Labial Hidratante, R$ 228,50, Not Found
+https://www.paguemenos.com.br/kit-basico-para-pele-sensivel-2-produtos--o16959k2a8303640/p, Kit Básico Para Pele Sensível (2 Produtos), R$ 150,42, Not Found
+https://www.paguemenos.com.br/sabonete-granado-enxofre-90g/p, Sabonete Granado Enxofre para Peles Acneicas 90g, R$ 9,99, 7896512900043
+https://www.paguemenos.com.br/protetor-solar-principia-fps-60-40ml/p, Protetor Solar Principia Fps 60 40ml, R$ 43,99, 0609963220694
+https://www.paguemenos.com.br/desodorante-perspirex-antitranspirante-rollon-20ml/p, Perspirex Original Desodorante Antitranspirante Roll-On 20ml, R$ 97,99, 5701943011386
+https://www.paguemenos.com.br/curativo-hidrocoloide-dauf-para-acnes-e-espinhas-24-unidades/p, Adesivo para Espinha Hidrocoloide Dauf 24 Unidades, R$ 20,99, 7898727351368
+https://www.paguemenos.com.br/gel-de-limpeza-principia-gl-02-350g/p, Gel de Limpeza Principia GL-02 350g, R$ 48,99, 0609963220755
+https://www.paguemenos.com.br/gel-de-limpeza-principia-350g/p, Gel de Limpeza Facial Principia GL-01 350g, R$ 48,99, 0609963220564
+https://www.paguemenos.com.br/pantogar-neo-com-90-capsulas/p, Suplemento Alimentar Pantogar Neo 90 Capsulas, R$ 164,99, 7896112407164
+https://www.paguemenos.com.br/protetor-solar-helioderm-facial-fps70-sem-cor-50g/p, Protetor Solar Helioderm Facial Fps70 Sem Cor 50g, R$ 29,99, 7896331708257
+https://www.paguemenos.com.br/contractubex-gel-bisnaga-com-20g/p, Contractubex Gel Bisnaga Com 20g, R$ 107,20, 7896112403418
+https://www.paguemenos.com.br/fisiogel-ai-locao-cremosa-400ml/p, Fisiogel ai Loção Cremosa 400ml, R$ 156,99, 7896026171380
+https://www.paguemenos.com.br/cetaphil-creme-hidratante-453g-gratis-locao-de-limpeza-120ml/p, Cetaphil creme hidratante 453g grátis Loção De limpeza 120ml, R$ 119,99, 7897930778320
+https://www.paguemenos.com.br/cerave-creme-hidratante-453g/p, Creme Hidratante CeraVe Pele Seca a Extra Seca 454 g, R$ 112,99, 7899706159197
+https://www.paguemenos.com.br/cerave-locao-hidratante-473ml/p, CeraVe Loção Hidratante Corporal 473ml, R$ 121,99, 7899706159272
+https://www.paguemenos.com.br/bepantol-derma-creme-20g/p, Bepantol Derma Creme Hidratante Multirrestaurador 20g, Pele Extrasseca, R$ 35,99, 7891106907286
+https://www.paguemenos.com.br/filtrum-ultra-seco-fps30-creme-gel-60g/p, Protetor Solar Filtrum Ultra Seco FPS30 Creme Gel 60g, R$ 52,99, 7896094208537
+https://www.paguemenos.com.br/cetaphil-hidratante-creme-453g/p, Cetaphil Creme Hidratante Corporal 453g, R$ 119,99, 7897930777798
+https://www.paguemenos.com.br/cetaphil-hidratante-locao-473ml/p, Not Found, Not Found, 7897930777743
+https://www.paguemenos.com.br/gel-de-limpeza-darrow-actine-frasco-400g/p, Gel De Limpeza Darrow Actine Frasco 400g, R$ 63,99, 3282770399998
+https://www.paguemenos.com.br/creme-calmante-multirreparador-principia-cm-01-40g/p, Creme Calmante Multirreparador Principia Cm-01 40g, R$ 43,99, 0609963220670
+https://www.paguemenos.com.br/serum-principia-10porcento-vitamina-c-mais-0-5porcento-acido-ferulico-30ml/p, Sérum Principia 10% Vitamina C + 0,5% Ácido Ferúlico 30ml, R$ 63,99, 0609963220359
+https://www.paguemenos.com.br/serum-principia-10porcento-niacinamida-mais-1porcento-zinco-pca-30ml/p, Sérum Principia NC-10 10% Niacinamida + 1% Zinco 30ml, R$ 58,99, 0602883706309
+https://www.paguemenos.com.br/serum-principia-mix-5porcento-niacinamida-mais-4porcento-glicolico-mais-3porcento-tranexamico-mais-2porcento-salicilico-30ml/p, Sérum Principia Mix-01 5% Niacinamida + 4% Glicólico + 3% Tranexâmico + 2% Salicílico 30ml, R$ 63,99, 0602883706477
+https://www.paguemenos.com.br/imecap-hair-max-cabelos-e-unhas-kit-leve-90-pague-60-capsulas/p, Imecap Hair Max 90 Cápsulas, R$ 66,99, 7898040329891
+https://www.paguemenos.com.br/cleany-concentrado-gel-de-limpeza-antioleosidade-300ml/p, Cleany Concentrado Gel De Limpeza Antioleosidade 300ml, R$ 55,99, 7897129304873
+https://www.paguemenos.com.br/creme-l-oreal-revitalift-laser-x3-antirrugas-facial-diurno-com-50ml/p, Creme Hidratante Facial Anti-idade L'Oréal Paris Revitalift Laser X3 Diurno, 50ml, R$ 109,99, 7898587766876
+https://www.paguemenos.com.br/cicaplast-baume-b5mais-la-roche-posay-cuidado-multirreparador-calmante-40ml/p, Cicaplast Baume B5+ La Roche-Posay Creme Multirreparador Calmante 40ml, R$ 96,99, 7908615000244
+https://www.paguemenos.com.br/cicaplast-baume-b5mais-la-roche-posay-cuidado-multirreparador-calmante-20ml/p, Creme Calmante Cicaplast Baume B5+ La Roche-Posay 20ml, R$ 52,99, 7908615000169
+https://www.paguemenos.com.br/anthelios-ultra-cover-cor-3-0-fps60-30g/p, La Roche-Posay Anthelios Ultra Cover Cor 3.0 FPS 60 Protetor Solar Facial Com Cor 30g, R$ 92,99, 7899706185844
+https://www.paguemenos.com.br/revitalift-hialuronico-loreal-antioleosidade-gel-150g/p, Gel de Limpeza Antioleosidade L'Oréal Paris Revitalift Hiaurônico 150g, R$ 48,99, 7899706197144
+https://www.paguemenos.com.br/dermovance-calm-creme-facial-40g/p, Creme Facial Dermovance Calm  40g, R$ 45,99, 7898040328412
+https://www.paguemenos.com.br/amilia-repair-locao-prebiotica-60g/p, Amilia Repair Loção Prebiótica 60g, R$ 67,99, 7897129304729
+https://www.paguemenos.com.br/hidratante-facial-neutrogena-face-care-intensive-matte-3-em-1-100g/p, Hidratante facial Neutrogena face Care intensive matte 3 em 1 100g, R$ 44,99, 7891010253813
+https://www.paguemenos.com.br/suavie-sabonete-dermatologico-para-pele-sensivel-400ml/p, Suavié Sabonete Dermatológico Para Pele Sensível 400ml, R$ 102,99, 3282770144369
+https://www.paguemenos.com.br/protetor-solar-facial-l-oreal-paris-solar-expertise-antirrugas-fps-60-com-cor-40g/p, Protetor Solar Facial L'Oréal Paris Solar Expertise Antirrugas Com Cor FPS 60, 40g, R$ 54,99, 7899706184960
+https://www.paguemenos.com.br/protetor-solar-facial-helioderm-fps50-50g/p, Protetor Solar Facial Helioderm Fps50 50g, R$ 33,99, 7896331705331
+https://www.paguemenos.com.br/protetor-solar-helioderm-suncare-fps50-200ml/p, Protetor Solar Helioderm Suncare Fps50 200ml, R$ 32,99, 7896331706208
+https://www.paguemenos.com.br/cerave-creme-hidratante-50g/p, Cerave Creme Hidratante 50g, R$ 40,99, 7899706182980
+https://www.paguemenos.com.br/protetor-solar-nivea-ph-fps50-200ml-gratis-protetor-solar-nivea-ph-fps50-100ml/p, Protetor Solar Nivea Ph Fps50 200ml  Gratis Protetor Solar Nivea Ph Fps50 100ml, R$ 69,99, 4005900709752
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-facial-oil-control-fps70-toque-seco-40g/p, Neostrata Minesol Protetor Solar Facial Oil Control Fps70 Toque Seco 40g, R$ 101,99, 7891010248178
+https://www.paguemenos.com.br/venalot-creme-240ml/p, Venalot Creme 240ml, R$ 72,99, 7896094921849
+https://www.paguemenos.com.br/hydraporin-ai-locao-hidratante-peles-secas-e-extrasecas-450g/p, Hydraporin Ai Loçao Hidratante Peles Secas E Extrasecas 450g, R$ 176,99, 7891142204554
+https://www.paguemenos.com.br/hidratante-facial-dauf-vitamina-c-50g/p, Hidratante facial Dauf vitamina C 50g, R$ 20,99, 7896048607508
+https://www.paguemenos.com.br/fisiogel-locao-cremosa-400ml/p, Fisiogel Hidratante Loção Cremosa 400ml, R$ 94,99, 7896026171410
+https://www.paguemenos.com.br/locao-hidratante-ureia-10porcento-dauf-500g/p, Loção Corporal Hidratante Ureia 10% Dauf 500g, R$ 64,99, 7896048607270
+https://www.paguemenos.com.br/hidratante-labial-nivea-amora-shine-4-8g/p, Hidratante labial NÍVEA Amora Shine 4,8g, R$ 19,99, 4005900453259
+https://www.paguemenos.com.br/eximia-fortalize-kera-d-com-30-comprimidos/p, Eximia Fortalize Kera D Com 30 Comprimidos, R$ 168,99, 7898040325466
+https://www.paguemenos.com.br/pantogar-neo-com-60-capsulas/p, Pantogar Neo Com 60 Cápsulas, R$ 165,41, 7896112400448
+https://www.paguemenos.com.br/imecap-hair-30-capsulas-suplemento-de-vitaminas-para-cabelos-e-unhas-com-biotina/p, Imecap Hair 30 Cápsulas, R$ 26,99, 7898414852734
+https://www.paguemenos.com.br/fletop-locao-200ml/p, Fletop Loção 200ml, R$ 83,99, 7898040324438
+https://www.paguemenos.com.br/bepantol-derma-regenerador-labial-7-5ml/p, Hidratante Regenerador Labial Bepantol Derma 7,5ml, R$ 47,99, 7891106908870
+https://www.paguemenos.com.br/epiduo-gel-antiacne-bisnaga-30g/p, Epiduo Gel Antiacne Bisnaga 30g, R$ 131,26, 7897930761414
+https://www.paguemenos.com.br/hidratante-labial-nivea-lip-care-morango/p, Hidratante Labial NÍVEA Morango Shine 4,8 g, R$ 19,99, 4005808850839
+https://www.paguemenos.com.br/hidratante-labial-nivea-lip-care-essential/p, Hidratante Labial  NÍVEA Original Care 4,8g, R$ 19,99, 4005808850617
+https://www.paguemenos.com.br/carmed-hid-lab-bg-10g-smurfs/p, Hidratante Labial Carmed Smurfs 10g, R$ 24,90, 7897947621176
+https://www.paguemenos.com.br/protetor-solar-em-bastao-ollie-cor-30-fps95-15g/p, Protetor Solar Em Bastão Ollie Cor 30 Fps95 15g, R$ 138,99, 7898968269491
+https://www.paguemenos.com.br/suplemento-alimentar-neosil-attack-100mg-90-comprimidos/p, Suplemento Alimentar Neosil Attack 100mg 90 Comprimidos, R$ 279,99, 7896004791074
+https://www.paguemenos.com.br/oleo-corporal-farmax-rosa-mosqueta-100ml/p, Óleo Corporal Farmax  Rosa Mosqueta 100ml, R$ 10,49, 7896902217003
+https://www.paguemenos.com.br/gel-de-limpeza-avene-cleanance-purificante-300g/p, Gel De Limpeza Avène Cleanance Purificante 300g, R$ 70,99, 3282770398045
+https://www.paguemenos.com.br/protetor-solar-corporal-principia-ps-03-fps60-200ml/p, Protetor Solar Corporal Principia Ps-03 Fps60 200ml, R$ 63,99, 0609963220779
+https://www.paguemenos.com.br/vichy-dercos-shampoo-anticaspa-ds-cabelos-normais-a-oleosos-125g/p, Vichy Dercos Shampoo Anticaspa Ds Cabelos Normais A Oleosos 125g, R$ 82,99, 7908615082462
+https://www.paguemenos.com.br/serum-principia-0-3porcento-retinol-mais-0-5porcento-vitamina-e-30ml/p, Sérum Principia 0,3% Retinol + 0,5% Vitamina E 30ml, R$ 58,99, 0609963220526
+https://www.paguemenos.com.br/serum-principia-2porcento-composicao-de-acidos-hialuronicos-mais-1porcento-vitamina-b5-30ml/p, Sérum Principia 2% Composição De Ácidos Hialurônicos + 1% Vitamina B5 30ml, R$ 53,99, 0736532824844
+https://www.paguemenos.com.br/fisiogel-amaise-locao-pump-475ml/p, Fisiogel a+e loção pump 475ml, R$ 71,99, 7896026173063
+https://www.paguemenos.com.br/zella-150mg-g-gel-dermatologico-30g/p, Gel Dermatológico Mantecorp Zella 150mg/g 30g, R$ 81,99, 7896094929746
+https://www.paguemenos.com.br/genova-cabelos-e-unhas-com-60-comprimidos/p, Genova Cabelos E Unhas Com 60 Comprimidos, R$ 166,99, 7891317025588
+https://www.paguemenos.com.br/protetor-solar-hidratante-epidrat-calm-b5-fps-50-com-50ml/p, Protetor Solar Hidratante Epidrat Calm B5 Fps 50 Com 50ml, R$ 93,99, 7891142982957
+https://www.paguemenos.com.br/epidrat-corpo-intensivo-creme-500g/p, Hidratante Intensivo Corpo Epidrat 500g, R$ 102,99, 7891142982995
+https://www.paguemenos.com.br/cleany-controle-gel-de-limpeza-antioleosidade-150-ml/p, Cleany Controle Gel De Limpeza Antioleosidade 150ml, R$ 36,99, 7897129304897
+https://www.paguemenos.com.br/dercos-shampoo-anticaspa-intensivo-vichy-125ml/p, Shampoo Vichy Dercos Anticaspa DS Selênio 125ml, R$ 82,99, 7899706198288
+https://www.paguemenos.com.br/dercos-vichy-energymais-shampoo-estimulante-400g/p, Vichy Dercos Shampoo Energy+ 400 ml, R$ 152,99, 7899706254403
+https://www.paguemenos.com.br/protetor-solar-acnezil-fps-30-com-60g/p, Protetor Solar Facial Controle da Oleosidade Acnezil FPS 30 60g, R$ 25,99, 7897947601185
+https://www.paguemenos.com.br/shampoo-anticaspa-darrow-doctar-plus-120ml-com-25porcento-off/p, Shampoo Anticaspa Darrow Doctar Plus 120ml Com 25% Off, R$ 56,99, 3282770392715
+https://www.paguemenos.com.br/fisiogel-creme-mao-e-pes-50g/p, Fisiogel creme mão e pes 50g, R$ 24,99, 7896026172653
+https://www.paguemenos.com.br/fisiogel-creme-pote-450g/p, Fisiogel Creme Pote 450g, R$ 66,99, 7896026172622
+https://www.paguemenos.com.br/protetor-solar-helioderm-corporal-fps70-200ml/p, Protetor Solar Helioderm Corporal Fps70 200ml, R$ 39,99, 7896331708202
+https://www.paguemenos.com.br/dermotivin-benzac-oil-control-microbioma-equilibrado-50ml/p, Dermotivin Benzac Oil Control Microbioma Equilibrado 50ml, R$ 74,99, 3499320014144
+https://www.paguemenos.com.br/nutriol-med-hidratante-anticoceira-390g/p, Nutriol Med Hidratante Intensivo Anticoceira 390g, R$ 132,99, 3282770388497
+https://www.paguemenos.com.br/actine-gel-de-limpeza-140g-gratis-gel-de-limpeza-40g/p, Kit Actine Gel de Limpeza 140g Grátis Gel de Limpeza 40g, R$ 39,99, 3282779340847
+https://www.paguemenos.com.br/kit-protetor-solar-facial-dauf-fps80-com-200ml-gratis-protetor-facial-fps80-com-60ml/p, Kit Protetor Solar Corporal Dauf Fps80 Com 200ml Grátis Protetor Facial Fps80 Com 60ml, R$ 69,99, 7896048609861
+https://www.paguemenos.com.br/protetor-solar-nivea-sun-facial-toque-seco-fps70-40ml/p, Protetor Solar Facial NIVEA Sun Toque Seco Antissinais FPS70 40ml, R$ 52,99, 4005900980397
+https://www.paguemenos.com.br/anthelios-ultra-cover-cor-2-0-fps60-30g/p, La Roche-Posay Protetor Solar Anthelios Ultra Cover 2.0 30g, R$ 92,99, 7899706186179
+https://www.paguemenos.com.br/anthelios-airliciummais-fps80-40g/p, Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS80 40g, R$ 102,99, 7899706195027
+https://www.paguemenos.com.br/celamina-ultra-shampoo-200ml/p, Shampoo Celamina Ultra 200ml, R$ 102,99, 7896714290133
+https://www.paguemenos.com.br/epidrat-calm-120ml/p, Epidrat Calm 120ml, R$ 172,99, 7891142982087
+https://www.paguemenos.com.br/cetaphil-locao-hidratante-200ml/p, Cetaphil Loção Hidratante  200ml, R$ 92,99, 7897930777873
+https://www.paguemenos.com.br/sabonete-granado-tra-sulfuroso-90g/p, Sabonete granado tra sulfuroso 90g, R$ 9,99, 7896512900111
+https://www.paguemenos.com.br/gel-de-limpeza-facial-antibacteriano-garnier-uniform-matte-vitamina-c-150ml/p, Gel de Limpeza Facial Antibacteriano Garnier Uniform & Matte Vitamina C, 150ml, R$ 25,99, 7899706192019
+https://www.paguemenos.com.br/protetor-solar-facial-isdin-fusion-water-fps-60-sem-cor-com-30ml/p, Protetor Solar Facial Isdin Fusion Water FPS60 Sem Cor 30ml, R$ 81,99, 8429420225718
+https://www.paguemenos.com.br/protetor-solar-facial-helioderm-fps50-com-cor-50g/p, Protetor Solar Facial Helioderm Fps50 Com Cor 50g, R$ 35,99, 7896331706994
+https://www.paguemenos.com.br/epidrat-calm-b5-50ml/p, Epidrat Calm B5 50ml, R$ 99,99, 7891142205544
+https://www.paguemenos.com.br/kit-protetor-solar-fps-70-neutrogena-sun-fresh-200ml-gratis-protetor-solar-facial-fps-70-40g/p, Kit Protetor Solar FPS 70 Neutrogena Sun Fresh 200ml Grátis Protetor Solar Facial FPS 70 40g, R$ 94,99, 7891010253561
+https://www.paguemenos.com.br/protetor-solar-neutrogena-sun-fresh-derm-care-fps70-sem-cor-ganhe-gel-de-limpeza-neutrogena-purified-skin-60g/p, Protetor Solar Neutrogena Sun Fresh Derm Care Fps70 Sem Cor Ganhe Gel De Limpeza Neutrogena Purified Skin 60g, R$ 64,99, 7891010255183
+https://www.paguemenos.com.br/protetor-solar-dauf-fps60-200ml-gratis-protetor-solar-facial-fps60-60ml/p, Protetor Solar Dauf Fps60 200ml Grátis Protetor Solar Facial Fps60 60ml, R$ 59,99, 7896048609250
+https://www.paguemenos.com.br/eucerin-aquaphor-pomada-reparadora-duo-pack-2-bisnagas-de-9g-cada/p, Eucerin Aquaphor DuoPack Pomada Reparadora Intensiva 2x 10ml, R$ 54,99, 4005800220012
+https://www.paguemenos.com.br/umbrella-perfect-skin-tom-claro-fps50-50g/p, Umbrella Perfect Skin Tom Claro Fps50 50g, R$ 109,99, 7896026171267
+https://www.paguemenos.com.br/hidratante-facial-neutrogena-face-care-intensive-antissinais-fps22-100g/p, Hidratante facial Neutrogena face Care intensive antissinais fps22 100g, R$ 44,99, 7891010253790
+https://www.paguemenos.com.br/avene-cicalfatemais-creme-reparador-protetor-20ml/p, Avene Cicalfate+ Creme Reparador Protetor 20ml, R$ 49,99, 3282770146172
+https://www.paguemenos.com.br/dermotivin-hidratante-matificante-benzac-oil-control-pele-oleosa-a-acneica-50ml/p, Dermotivin Hidratante Matificante Benzac Oil Control Pele Oleosa A Acneica 50ml, R$ 61,99, 7897930777286
+https://www.paguemenos.com.br/desodorante-perspirex-comfort-antitranspirante-roll-on-20ml/p, Desodorante Perspirex Comfort Antitranspirante roll-On 20ml, R$ 97,99, 5701943100127
+https://www.paguemenos.com.br/protetor-solar-neutrogena-sun-fresh-oily-skin-sem-cor-fps70-40g/p, Protetor Solar Neutrogena Sun Fresh Oily Skin Sem Cor Fps70 40g, R$ 64,99, 7891010253196
+https://www.paguemenos.com.br/protetor-solar-facial-neutrogena-sun-fresh-derm-care-fps70-pele-mista-a-oleosa-pele-clara-40g/p, Protetor Solar Facial Neutrogena Sun Fresh Derm Care Fps70 Pele Mista A Oleosa Pele Clara 40g, R$ 64,99, 7891010253202
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-facial-oil-control-fps70-medio-claro-40g/p, Neostrata Minesol Protetor Solar Facial Oil Control Fps70 Médio Claro 40g, R$ 101,99, 7891010250799
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-facial-oil-control-fps70-pele-clara-40g/p, Neostrata Minesol Protetor Solar Facial Oil Control Fps70 Pele Clara 40g, R$ 84,99, 7891010250782
+https://www.paguemenos.com.br/protetor-solar-facial-isdin-fusion-water-fps-60-sem-cor-50ml/p, ISDIN Protetor Solar Facial Fusion Water 5 Stars Sem Cor FPS 60 - 50ml, R$ 114,99, 8429420197985
+https://www.paguemenos.com.br/protetor-solar-sundown-praia-e-piscina-fps50-200ml-gratis-protetor-solar-sundown-praia-e-piscina-fps50-120ml/p, Protetor  Solar Sundown Praia E Piscina Fps50 200ml Grátis Protetor Solar Sundown Praia E Piscina Fps50 120ml, R$ 65,99, 7891010253523
+https://www.paguemenos.com.br/cetaphil-locao-hidratante-473ml-gratis-locao-de-limpeza-cetaphil-120ml/p, Cetaphil loção hidratante 473ml Grátis loção de Limpeza Cetaphil 120ml, R$ 125,99, 7897930778337
+https://www.paguemenos.com.br/diosmin-creme-200g/p, Diosmin Creme 200g, R$ 106,99, 7896658035913
+https://www.paguemenos.com.br/locao-hidratante-dauf-hidroxietil-ureia-20pc-150g/p, Loção Hidratante Dauf Hidroxietil Ureia 20pc 150g, R$ 36,99, 7896048608055
+https://www.paguemenos.com.br/creme-antirruga-nupill-fps15-50g/p, Creme Antirruga Nupill Fps15 50g, R$ 26,49, 7898911309571
+https://www.paguemenos.com.br/fisiogel-sabonete-liquido-hidratante-400ml/p, Fisiogel sabonete Liquido Hidratante 400ml, R$ 92,99, 7896026171502
+https://www.paguemenos.com.br/hidratante-labial-nivea-cereja-shine-4-8g/p, Hidratante Labial Nivea Cereja Shine 4,8 g, R$ 19,99, 4005900663993
+https://www.paguemenos.com.br/creme-anti-idade-para-olhos-loreal-revitalift-hialuronico-15ml/p, Creme para Olhos Anti-idade Hidratante L'Oréal Paris Revitalift Hialurônico, 15g, R$ 42,99, 7899706171564
+https://www.paguemenos.com.br/bepantol-derma-creme-20g-preco-promocional/p, Bepantol Derma Creme 20g Preço Promocional, R$ 30,99, 7891106913362
+https://www.paguemenos.com.br/bepantriz-tattoo-creme-20g/p, Bepantriz Tattoo com Dexpantenol 20g, R$ 24,99, 7897947615250
+https://www.paguemenos.com.br/cerave-creme-hidratante-200g/p, Cerave Creme Hidratante 200g, R$ 82,99, 7899706159173
+https://www.paguemenos.com.br/profuse-nutrel-suavizante-balm-50g/p, Profuse Nutrel Suavizante Balm 50g, R$ 87,99, 7896658030451
+https://www.paguemenos.com.br/sabonete-facial-dauf-para-pele-oleosa-ou-acneica-120g/p, Sabonete facial Dauf para Pele oleosa Ou acneica 120g, R$ 21,99, 7896048606808
+https://www.paguemenos.com.br/protetor-solar-dauf-fps60-500ml/p, Protetor Solar Dauf Fps60 500ml, R$ 94,99, 7896048607263
+https://www.paguemenos.com.br/dermon-creme-20g/p, Dermon Creme 20g, R$ 41,99, 7896006212386
+https://www.paguemenos.com.br/cedraflon-150ml/p, Cedraflon 150ml, R$ 95,99, 7898029550063
+https://www.paguemenos.com.br/hidratante-facial-neutrogena-hydro-boost-water-gel-50g/p, Hidratante Facial Neutrogena Hydro Boost Water Gel 50g, R$ 79,99, 7891010882983
+https://www.paguemenos.com.br/acnezil-gel-secativo-10g/p, Acnezil Gel Secativo 10g, R$ 18,49, 7897947607392
+https://www.paguemenos.com.br/agua-micelar-5-em-1-de-loreal-paris-200ml/p, Água Micelar L'Oréal Paris Solução de Limpeza 5 em 1, 200ml, R$ 28,99, 7899706126335
+https://www.paguemenos.com.br/bio-oil-125ml/p, Bio Oil 125ml, R$ 81,99, 6001159111771
+https://www.paguemenos.com.br/gel-creme-facial-para-pele-descamativa-isdin-nutradeica-com-50ml/p, Gel Creme Facial Nutradeica Isdin para Pele Descamativa 50ml, R$ 145,99, 8429420093683
+https://www.paguemenos.com.br/epidrat-calm-40g/p, Epidrat Calm Hidratante Facial Pele Sensível 40g, R$ 94,99, 7891142200235
+https://www.paguemenos.com.br/tacita-com-30-comprimidos/p, Tacitá Com 30 Comprimidos, R$ 116,99, 7896676438550
+https://www.paguemenos.com.br/creme-anti-idade-revitalift-noturno-49g-de-loreal-paris/p, Creme Hidratante Facial Anti-idade L'Oréal Paris Revitalift Pro-Retinol Noturno, 49g, R$ 74,99, 7898587764766
+https://www.paguemenos.com.br/creme-anti-idade-revitalift-diurno-fps30-49g-de-loreal-paris/p, Creme Hidratante Facial Anti-idade L'Oréal Paris Revitalift Pro-Retinol Diurno FPS 30, 49g, R$ 74,99, 7898587764780
+https://www.paguemenos.com.br/sabonete-em-barra-asepxia-enxofre-acao-antioleosidade-80g/p, Sabonete Em Barra Asepxia Enxofre Ação Antioleosidade 80g, R$ 11,99, 7898949409557
+https://www.paguemenos.com.br/bronzeador-cenoura-bronze-fps-6-oleo-110ml/p, Bronzeador Cenoura & Bronze FPS 6 Óleo 110ml, R$ 30,99, 7896108560347
+https://www.paguemenos.com.br/clindoxyl-control-10porcento-45g/p, Clindoxyl Control 10% 45g, R$ 59,99, 7896026172165
+https://www.paguemenos.com.br/sabonete-facial-neutrogena-deep-clean-gel-grapefruit-150g/p, Sabonete facial Neutrogena deep Clean Gel Grapefruit 150g, R$ 36,99, 7891010972226
+https://www.paguemenos.com.br/protetor-labial-nivea-med-protection-fps15-4-8g/p, Nivea Protetor Labial Med Repair FPS15 4,8g, R$ 22,99, 4005808369621
+https://www.paguemenos.com.br/amilia-talco-liquido-80g/p, Amilia Talco Líquido 80g, R$ 112,99, 7897129301780
+https://www.paguemenos.com.br/sabonete-facial-neutrogena-deep-clean-80g/p, Sabonete facial Neutrogena deep Clean 80g, R$ 16,49, 7891010099725
+https://www.paguemenos.com.br/gel-de-limpeza-nivea-visage-pele-oleosa-150ml/p, NIVEA Sabonete Facial em Gel Purificante Efeito Matte 150g, R$ 26,99, 4005808189625
+https://www.paguemenos.com.br/soapex-sabonete-80g/p, Soapex sabonete 80g, R$ 26,99, 7897930750043
+https://www.paguemenos.com.br/gel-de-limpeza-actine-oil-control-400g/p, Gel De Limpeza Actine Oil Control 400g, R$ 63,99, 3282770395822
+https://www.paguemenos.com.br/gel-de-limpeza-eucerin-esfoliante-anti-pigment-200ml/p, Gel De Limpeza Eucerin Esfoliante Anti-Pigment 200ml, R$ 89,90, 4005800346583
+https://www.paguemenos.com.br/protetor-solar-em-bastao-ollie-cor-20-fps95-15g/p, Protetor Solar Em Bastão Ollie Cor 20 Fps95 15g, R$ 138,99, 7898968269484
+https://www.paguemenos.com.br/protetor-solar-facial-vult-antioleosidade-e-efeito-matte-fps70-40ml/p, Protetor Solar Facial Vult Antioleosidade E Efeito Matte Fps70 40ml, R$ 37,99, 7899852026060
+https://www.paguemenos.com.br/kit-principia-gl-02---ps-01/p, Kit Principia Limpeza Solar Facial Gl-02 + Ps-01, R$ 92,98, Not Found
+https://www.paguemenos.com.br/suplemento-alimentar-tacita-30-comprimidos/p, Suplemento Alimentar Tacita 30 Comprimidos, R$ 156,99, 7896676441291
+https://www.paguemenos.com.br/locao-facial-cerave-oil-control-pele-oleosa-52g/p, Loção Facial Cerave Oil Control Pele Oleosa 52g, R$ 99,99, 7908615089584
+https://www.paguemenos.com.br/gel-de-limpeza-dermatologico-darrow-actine-frasco-140g-pump-preco-especial/p, Gel De Limpeza Dermatológico Darrow Actine Frasco 140g Pump Preço Especial, R$ 34,99, 3282770400007
+https://www.paguemenos.com.br/oleo-corporal-farmax-semente-de-uva-100ml/p, Óleo Corporal Farmax Semente De Uva 100ml, R$ 10,49, 7896902211254
+https://www.paguemenos.com.br/kit-darrow-hidratante-intensivo-nutriol-med-anticoceira-390g-gratis-hidratante-intensivo-nutriol-med-100g/p, Kit Darrow Hidratante Intensivo Nutriol Med Anticoceira 390g Grátis Hidratante Intensivo Nutriol Med 100g, R$ 132,99, 3282779395175
+https://www.paguemenos.com.br/gel-de-limpeza-profunda-avene-cleanance-intense-300g/p, Gel De Limpeza Profunda Avène Cleanance Intense 300g, R$ 70,99, 3282770398038
+https://www.paguemenos.com.br/serum-principia-am-10-30ml/p, Sérum Principia Am-10 30ml, R$ 58,99, 0602883706316
+https://www.paguemenos.com.br/serum-principia-mix-02-30ml/p, Sérum Principia Mix-02 30ml, R$ 68,99, 0609963220243
+https://www.paguemenos.com.br/shampoo-dermatologico-anticaspa-principia-ac-01-250ml/p, Shampoo Dermatológico Anticaspa Principia Ac-01 250ml, R$ 63,99, 0609963220748
+https://www.paguemenos.com.br/vichy-dercos-shampoo-anticaspa-ds-cabelos-normais-a-oleosos-300g/p, Vichy Dercos Shampoo Anticaspa Ds Cabelos Normais A Oleosos 300g, R$ 129,99, 7908615087610
+https://www.paguemenos.com.br/vichy-dercos-shampoo-anticaspa-intensivo-ds-cabelos-secos-300g/p, Vichy Dercos Shampoo Anticaspa Intensivo Ds Cabelos Secos 300g, R$ 129,99, 7908615082493
+https://www.paguemenos.com.br/cerave-locao-hidratante-340ml/p, Cerave Loção Hidratante 340ml, R$ 102,99, 7908615086309
+https://www.paguemenos.com.br/kit-nivea-sun-protetor-solar-corporal-protect-hidrata-fps70-200ml-mais-protetor-solar-facial-controle-de-oleosidade-beauty-expert-fps60-50g/p, Kit Nivea Sun Protetor Solar Corporal Protect Hidrata Fps70 200ml + Protetor Solar Facial Controle De Oleosidade Beauty Expert Fps60 50g, R$ 71,99, 4006000140575
+https://www.paguemenos.com.br/blancy-tx-clareador-gel-creme-30g/p, Blancy Tx Clareador Gel Creme 30g, R$ 244,99, 7891142982834
+https://www.paguemenos.com.br/cleansing-oil-demaquilante-biore-150ml/p, Cleansing Oil Demaquilante Bioré 150ml, R$ 68,99, 4901301756305
+https://www.paguemenos.com.br/tonico-facial-principia-7porcento-acido-latico-mais-1porcento-acido-salicilico-120ml/p, Tônico Facial Principia 7% Ácido Lático + 1% Ácido Salicílico 120ml, R$ 48,99, 0609963220380
+https://www.paguemenos.com.br/cicabio-crememais-20ml/p, Bioderma Cicabio Crème+ Creme Ultra-Reparador Calmante 20ml, R$ 41,99, 3701129811283
+https://www.paguemenos.com.br/glycare-control-sabonete-em-barra-pele-oleosa-acneica-e-sensivel-70g/p, Glycare Control Sabonete Em Barra Pele Oleosa Acneica E Sensivel 70g, R$ 46,99, 7891142983039
+https://www.paguemenos.com.br/filtrum-sensi-fps50-com-50g-para-peles-sensiveis/p, Filtrum Sensi Fps50 Com 50g Para Peles Sensíveis, R$ 67,99, 7896094211834
+https://www.paguemenos.com.br/protetor-solar-la-roche-posay-anthelios-uvmune-airlicium-400-fps60-50ml/p, Protetor Solar La Roche-Posay Anthelios Uvmune Airlicium 400 Fps60 50ml, R$ 113,99, 3337875847292
+https://www.paguemenos.com.br/locao-hidratante-corporal-dermovance-ai-200ml/p, Loção Hidratante Corporal Dermovance Ai 200ml, R$ 89,99, 7898244720067
+https://www.paguemenos.com.br/creme-anti-idade-avene-retrinal-0-1-com-30ml/p, Creme Anti-Idade Avène Retrinal 0.1 Com 30ml, R$ 249,99, 3282779358668
+https://www.paguemenos.com.br/heliomax-fps70-protetor-solar-gel-creme-cor-claro-50g/p, Request Error, Request Error, Request Error
+https://www.paguemenos.com.br/heliomax-fps50-protetor-solar-fluido-50g/p, Heliomax FPS50 Protetor Solar Fluido 50g, R$ 72,99, 7898244720180
+https://www.paguemenos.com.br/kit-protetor-solar-facial-anthelios-airlicium-gel-creme-fps80-40g-gratis-effaclar-gel-concentrado-50g/p, Kit Protetor Solar Facial Anthelios Airlicium Gel Creme FPS80 40g Grátis Effaclar Gel Concentrado 50g, R$ 102,99, 7908615030159
+https://www.paguemenos.com.br/epidrat-calm-gel-de-limpeza-150g/p, Epidrat Calm gel de Limpeza 150g, R$ 61,99, 7896094920286
+https://www.paguemenos.com.br/pielus-di-anticaspa-nova-formula-shampoo-200ml-novo/p, Pielus Di Anticaspa Nova Formula Shampoo 200ml, R$ 99,99, 7891142982698
+https://www.paguemenos.com.br/dercos-ernegymais-shampoo-estimulante-vichy-200g/p, Shampoo Antiqueda Energy+ Dercos Vichy 200g, R$ 99,99, 7899706254342
+https://www.paguemenos.com.br/protecao-solar-facial-cenoura-e-bronze-fps70-com-50g/p, Protetor Solar Facial Cenoura e Bronze FPS 70 50g, R$ 41,99, 7896108560453
+https://www.paguemenos.com.br/protetor-solar-dauf-stick-fps90-cor-2-bege-medio/p, Protetor Solar Dauf Stick Fps90 Cor 2 Bege Medio, R$ 79,99, 7896048609779
+https://www.paguemenos.com.br/protetor-solar-dauf-stick-fps90-cor-01-bege-claro/p, Protetor Solar Dauf Stick Fps90 Cor 01 Bege Claro, R$ 79,99, 7896048609762
+https://www.paguemenos.com.br/actine-gel-de-limpeza-refil-300g/p, Actine Gel De Limpeza Refil 300g, R$ 58,99, 3282770153491
+https://www.paguemenos.com.br/protetor-solar-helioderm-corporal-fps-70-120ml/p, Protetor Solar Helioderm Corporal Fps 70 120ml, R$ 35,99, 7896331708196
+https://www.paguemenos.com.br/imecap-hair-silicio-organico-60-capsulas-nutraceutico-para-cabelos-e-unhas/p, Suplemento Imecap Hair Silício Orgânico 60 Cápsulas, R$ 66,99, 7898040321192
+https://www.paguemenos.com.br/imecap-hair-men-60-capsulas-suplemento-para-cabelos-e-barbas-masculinas/p, Suplemento Imecap Hair Men 60 Cápsulas, R$ 55,99, 7898040321604
+https://www.paguemenos.com.br/episol-acqua-fps60-60ml/p, Episol Acqua Fps60 60ml, R$ 99,90, 7891142206145
+https://www.paguemenos.com.br/locao-intensiva-hidratante-neutrogena-nwg-400ml/p, Hidratante Corporal Neutrogena Norwegian Loção Intensiva Sem Fragrância 400ml, R$ 95,99, 7891010254995
+https://www.paguemenos.com.br/isdin-fusion-water-cor-clara-fps50-50ml/p, Isdin Fusion Water Cor Clara Fps50 50ml, R$ 114,99, 8429420226241
+https://www.paguemenos.com.br/anthelios-ultra-cover-cor-4-0-fps60-30g/p, Anthelios Ultra Cover Cor 4.0 Protetor Solar Facial La Roche-Posay FPS60 30g, R$ 92,99, 7899706185868
+https://www.paguemenos.com.br/protetor-solar-facial-l-oreal-paris-solar-expertise-antioleosidade-fps60-cor-3-0-media-40g/p, Protetor Solar Facial L'Oréal Paris Solar Expertise Antioleosidade Fps60 Cor 3.0 Média 40g, R$ 52,99, 7899706197946
+https://www.paguemenos.com.br/protetor-solar-facial-l-oreal-paris-solar-expertise-antioleosidade-fps60-cor-1-0-clara-40g/p, Protetor Solar Facial L'Oréal Paris Solar Expertise Antioleosidade Fps60 Cor 1.0 Clara 40g, R$ 52,99, 7899706197922
+https://www.paguemenos.com.br/protetor-solar-facial-l-oreal-paris-solar-expertise-antioleosidade-fps60-40g/p, Protetor Solar Facial L'Oréal Paris Solar Expertise Antioleosidade Fps60 40G, R$ 49,99, 7899706197984
+https://www.paguemenos.com.br/doctar-salic-shampoo-de-tratamento-anticaspa-140ml/p, Doctar Salic Shampoo De Tratamento Anticaspa 140ml, R$ 75,99, 3282770388466
+https://www.paguemenos.com.br/nivea-facial-7-em-1-pele-negra-creme-uniformizador-100g/p, Hidratante Facial NIVEA Pele Negra Beleza Radiante 7 em 1 100g, R$ 38,90, 4005900950987
+https://www.paguemenos.com.br/epidrat-rosto-acqua-50ml/p, Epidrat Rosto Acqua 50ml, R$ 93,99, 7891142206596
+https://www.paguemenos.com.br/rozex-gel-30g-novo/p, Rozex Gel 30g, R$ 107,06, 7897930760172
+https://www.paguemenos.com.br/actine-gel-de-limpeza-facial-400g/p, Actine Gel De Limpeza Facial 400g, R$ 79,99, 32827701535070
+https://www.paguemenos.com.br/actine-gel-de-limpeza-facial-140g/p, Actine Gel De Limpeza Facial  Darrow 140g, R$ 39,99, 3282770153477
+https://www.paguemenos.com.br/dercos-sensi-scalp-shampoo-calmante-200ml/p, Dercos Sensi Scalp Shampoo Calmante 200ml, R$ 119,99, 7899706190657
+https://www.paguemenos.com.br/cetaphil-pro-ar-calm-espuma-limpeza-236ml/p, Cetaphil pro ar Calm espuma Limpeza 236ml, R$ 88,99, 3499320012485
+https://www.paguemenos.com.br/imecap-actsun-fps-60-50g-protetor-solar-facial-com-cor-clara-e-acido-hialuronico/p, Protetor Solar Facial Imecap Actsun Clara FPS60 50g, R$ 35,99, 7898040328764
+https://www.paguemenos.com.br/eximia-fortalize-s-cabelos-e-unhas-com-90-comprimidos/p, Eximia Fortalize S Cabelos e Unhas 90 Comprimidos, R$ 483,99, 7898040329174
+https://www.paguemenos.com.br/eximia-fortalize-s-cabelos-e-unhas-com-30-comprimidos/p, Eximia Fortalize S Cabelos E Unhas Com 30 Comprimidos, R$ 214,99, 7898040329181
+https://www.paguemenos.com.br/episol-color-fps70-tom-3-medio-40ml/p, Protetor Solar Facial Mantecorp Episol Color Fps70 Tom 3 - Médio 40ml, R$ 88,99, 7891142205704
+https://www.paguemenos.com.br/epidrat-calm-b5-20ml/p, Epidrat Calm B5 20ml, R$ 49,99, 7891142205551
+https://www.paguemenos.com.br/episol-color-fps70-tom-2-claro-40ml/p, Episol Color FPS 70 Tom 2 Claro 40ml, R$ 88,99, 7891142205643
+https://www.paguemenos.com.br/eximia-firmalize-aox-com-30-saches-de-13g-cada/p, Eximia Firmalize Aox Com 30 Sachês De 13g Cada, R$ 152,99, 7898040329082
+https://www.paguemenos.com.br/neosil-attack-com-30-comprimidos-revestidos/p, Suplemento Alimentar Neosil Attack Para Cabelos, Unhas E Pele 30 Comprimidos, R$ 148,99, 7896004820422
+https://www.paguemenos.com.br/eucerim-anti-pigment-dia-fps30-50ml/p, Eucerin Anti-pigment Clareador Creme Facial Dia FPS 30 50ml, R$ 206,99, 4005900559500
+https://www.paguemenos.com.br/protetor-solar-facial-isdin-fusion-water-5-stars-color-fps-50-50ml/p, ISDIN Protetor Solar Facial Fusion Water 5 Stars Color FPS 50 - Cor Média - 50ml, R$ 114,99, 8429420205192
+https://www.paguemenos.com.br/hidratante-facial-neutrogena-face-care-intensive-antissinais-reparador-100g/p, Hidratante facial Neutrogena face Care intensive antissinais reparador 100g, R$ 44,99, 7891010253806
+https://www.paguemenos.com.br/dercos-energizante-shampoo-antiqueda-refil-200ml/p, Shampoo Vichy Dercos Refil Energizante Antiqueda 200 ml, R$ 84,99, 7899706254373
+https://www.paguemenos.com.br/cerave-creme-reparador-para-o-contorno-dos-olhos-14ml/p, Cerave Creme Reparador Para Olhos 15g, R$ 102,99, 7899706192057
+https://www.paguemenos.com.br/doctar-plus-shampoo-anticaspa-intensivo-240ml/p, Shampoo Anticaspa Intensivo Doctar Plus 240ml, R$ 99,99, 3282770143942
+https://www.paguemenos.com.br/klassis-specialle-serum-50g/p, Sérum Facial Klassis Specialle Theraskin 50g, R$ 209,99, 7897129304583
+https://www.paguemenos.com.br/protetor-solar-facial-l-oreal-paris-solar-expertise-antirrugas-fps-60-40g/p, Protetor Solar Facial L'Oréal Paris Solar Expertise Antirrugas FPS 60, 40g, R$ 54,99, 7899706185028
+https://www.paguemenos.com.br/protetor-solar-helioderm-suncare-fps50-120g/p, Protetor Solar Helioderm Suncare Fps50 120g, R$ 27,99, 7896331705713
+https://www.paguemenos.com.br/creme-facial-nivea-revitalizante-q10-energy-noturno-50g/p, Creme Facial NIVEA Antissinais Q10 Energy Noite 50g, R$ 46,99, 4005900779458
+https://www.paguemenos.com.br/protetor-solar-facial-neutrogena-sun-fresh-derm-care-fps70-pele-mista-a-oleosa-pele-morena-40g/p, Protetor Solar Facial Neutrogena Sun Fresh Derm Care Fps70 Pele Mista A Oleosa Pele Morena 40g, R$ 64,99, 7891010253219
+https://www.paguemenos.com.br/blancy-tx-sabonete-clareador-120ml/p, Blancy Tx Sabonete Clareador 120ml, R$ 86,99, 7891142206039
+https://www.paguemenos.com.br/dercos-micro-peel-shampoo-esfoliante-anticaspa-150ml/p, Dercos Micro Peel Shampoo Esfoliante Anticaspa 150ml, R$ 111,99, 7899706170338
+https://www.paguemenos.com.br/kelus-gel-de-silicone-para-reducao-de-cicatrizes-15g/p, Kelus Gel De silicone Para reducao de Cicatrizes 15g, R$ 172,99, 7891317015039
+https://www.paguemenos.com.br/autobronzeador-dauf-creme-120g/p, Autobronzeador Dauf Creme 120g, R$ 24,99, 7896048600073
+https://www.paguemenos.com.br/actine-sab-barra-70g/p, Actine Sabonete Em Barra 70g, R$ 33,99, 3282770388664
+https://www.paguemenos.com.br/hidratante-facial-moringa-antissinais-serum-30ml/p, Hidratante facial Moringa Antissinais Sérum 30ml, R$ 46,99, 7898463297210
+https://www.paguemenos.com.br/sabonete-facial-moringa-micelar-antissinais-150ml/p, Sabonete facial Moringa Micelar Antissinais 150ml, R$ 41,99, 7898463297227
+https://www.paguemenos.com.br/hidratante-facial-moringa-noturno-50g/p, Hidratante facial Moringa Noturno 50g, R$ 47,99, 7898463297197
+https://www.paguemenos.com.br/hidratante-facial-moringa-antissinais-diurno-fps20-50g/p, Hidratante facial Moringa Antissinais  diurno Fps20 50g, R$ 47,99, 7898463297180
+https://www.paguemenos.com.br/creme-para-contorno-dos-olhos-moringa-15g/p, Creme Para contorno Dos Olhos Moringa 15g, R$ 52,99, 7898463297203
+https://www.paguemenos.com.br/sabonete-facial-dauf-antiacne-205ml/p, Sabonete facial Dauf antiacne 205ml, R$ 37,99, 7896048607973
+https://www.paguemenos.com.br/agua-micelar-dauf-210ml/p, Água micelar dauf 210ml, R$ 23,99, 7896048607683
+https://www.paguemenos.com.br/shampoo-ducray-densiage-200ml/p, Shampoo Ducray densiage 200ml, R$ 116,99, 3282770111088
+https://www.paguemenos.com.br/agua-micelar-nivea-air-mat-7-em-1-200ml/p, Água Micelar NÍVEA Air Mat 7 em 1 200ml, R$ 23,99, 4005900662019
+https://www.paguemenos.com.br/gel-de-limpeza-facial-effaclar-alta-tolerancia-la-roche-posay-300g/p, Gel De Limpeza Facial Effaclar Alta Tolerância La Roche-Posay 300g, R$ 109,99, 7899706171434
+https://www.paguemenos.com.br/creme-facial-anti-idade-loreal-revitalift-hialuronico-diurno-fps20-50ml/p, Creme Hidratante Facial Anti-idade L'Oréal Paris Revitalift Hialurônico Diurno FPS 20, 49g, R$ 52,99, 7899706171601
+https://www.paguemenos.com.br/ivy-c-corpo-e-colo-serum-rejuvenescente-e-hidratante-200ml/p, Protetor Solar Rejuvenescedor Ivy C Corpo e Colo FPS20 200ML, R$ 124,99, 7891142204745
+https://www.paguemenos.com.br/fisiogel-ai-creme-acao-calmante-50g/p, Fisiogel ai Creme Ação calmante 50g, R$ 57,99, 7896026171427
+https://www.paguemenos.com.br/hydraporin-ai-locao-hidratante-peles-secas-e-extrasecas-120g/p, Hydraporin Ai Loçao Hidratante Peles Secas E Extrasecas 120g, R$ 84,99, 7891142204547
+https://www.paguemenos.com.br/bioderma-atoderm-hulle-de-douche-200ml/p, Óleo De Banho Bioderma Atoderm Hidratante 200ml, R$ 91,99, 3401528519895
+https://www.paguemenos.com.br/creme-facial-nivea-nutritivo-100g/p, Creme Facial nivea nutritivo 100g, R$ 38,90, 0000042360407
+https://www.paguemenos.com.br/protetor-solar-episol-coor-fps50-pele-morena-po-compacto-10g/p, Protetor Solar Episol Pó Compacto Pele Morena Fps50 10g, R$ 164,99, 7891142204141
+https://www.paguemenos.com.br/protetor-solar-episol-color-fps50-pele-clara-po-compacto-10g/p, Protetor Solar Episol Pó Compacto Tom 2 Claro FPS50 10g, R$ 164,99, 7891142204127
+https://www.paguemenos.com.br/glycare-locao-120ml/p, Glycare Loçao 120ml, R$ 112,99, 7891142204677
+https://www.paguemenos.com.br/bepantol-derma-protetor-labial-4-5g/p, Bepantol Derma Protetor Labial 4,5g, R$ 48,99, 7891106908801
+https://www.paguemenos.com.br/sabonete-facial-em-barra-asepxia-detox-80g/p, Sabonete facial Em barra asepxia detox 80g, R$ 15,99, 7898636190874
+https://www.paguemenos.com.br/bio-oil-200ml/p, Bio Oil 200ml, R$ 107,99, 6001159111788
+https://www.paguemenos.com.br/gel-de-limpeza-facial-effaclar-concentrado-la-roche-posay-300g/p, Effaclar Concentrado Gel de Limpeza Facial La Roche-Posay 300g, R$ 109,99, 7899706155021
+https://www.paguemenos.com.br/agua-micelar-demaquilante-neutrogena-200ml/p, Água micelar demaquilante Neutrogena 200ml, R$ 39,99, 7891010245160
+https://www.paguemenos.com.br/agua-micelar-nivea-air-7-em-1-200ml/p, Água Micelar NÍVEA Air 7 em 1  200ml, R$ 23,99, 4005900359261
+https://www.paguemenos.com.br/sunmax-sensitive-fps50-family-160ml/p, Sunmax sensitive fps50 family 160ml, R$ 146,99, 7896026172257
+https://www.paguemenos.com.br/eximia-firmalize-age-complex-com-30-saches/p, Eximia Firmalize Age Complex Com 30 Sachês, R$ 158,99, 7898040325374
+https://www.paguemenos.com.br/protetor-solar-nivea-sun-protect-hidrata-fps-70-200ml/p, NIVEA SUN Protetor Solar Protect & Hidrata FPS 70 200ml, R$ 71,99, 4005900308719
+https://www.paguemenos.com.br/cicaplast-labios-la-roche-7-5ml/p, Reparador Labial La Roche-Posay Cicaplast Lábios 7,5ml, R$ 73,99, 7899706124874
+https://www.paguemenos.com.br/suavie-sabonete-liquido-60ml/p, Suavié sabonete Líquido 60ml, R$ 44,99, 3282770144420
+https://www.paguemenos.com.br/sunmax-fluid-fps55-pele-oleosa-mista-60ml/p, Sunmax fluid fps55 pele Oleosa/ Mista 60ml, R$ 56,99, 7896026172172
+https://www.paguemenos.com.br/umidita-gestante-locao-hidratante-200ml/p, Umiditá Gestante Loção Hidratante 200ml, R$ 86,99, 7896094208704
+https://www.paguemenos.com.br/papuless-gel-antiacne-25g/p, Papuless Gel Antiacne 25g, R$ 109,99, 7897129302626
+https://www.paguemenos.com.br/umidita-locao-hidratante-infantil-120ml/p, Umiditá Loção Hidratante Infantil 120ml., R$ 81,99, 7896094208728
+https://www.paguemenos.com.br/umidita-creme-gel-hidratante-para-o-rosto-fps25-50ml/p, Umiditá Creme Gel Hidratante Para O Rosto Fps25 50ml, R$ 55,99, 7896094208780
+https://www.paguemenos.com.br/locao-hidratante-ureia-10porcento-dauf-150g/p, Loção Hidratante Ureia 10% Dauf 150g, R$ 29,99, 7896048605719
+https://www.paguemenos.com.br/bio-oil-60ml/p, Bio Oil 60ml, R$ 49,99, 6001159111764
+https://www.paguemenos.com.br/hidratante-labial-nivea-fruty-shine-melancia-4-8g/p, Hidratante Labial NÍVEA Melancia Shine 4,8 g, R$ 19,99, 4005808934980
+https://www.paguemenos.com.br/c-kaderm-gel-20g/p, C-Kaderm gel 20g, R$ 219,99, 7891142201690
+https://www.paguemenos.com.br/clindoxyl-control-5porcento-45g/p, Clindoxyl Control 5% 45g, R$ 59,99, 7896026172295
+https://www.paguemenos.com.br/cetaphil-restoraderm-locao-hidratante-295ml/p, Cetaphil Restoraderm Loção Hidratante 295ml, R$ 154,99, 7897930775794
+https://www.paguemenos.com.br/sabonete-facial-em-barra-asepxia-esfoliante-antiacne-80g/p, Sabonete facial Em barra asepxia esfoliante Antiacne 80g, R$ 11,99, 7898949409533
+https://www.paguemenos.com.br/locao-demaquilante-nivea-visage-rosto-e-olhos-125ml/p, Demaquilante NÍVEA Bifásico 125ml, R$ 34,99, 4005808571147
+https://www.paguemenos.com.br/cetaphil-creme-hidratante-250g/p, Cetaphil Creme Hidratante 250g, R$ 89,99, 7897930777781
+https://www.paguemenos.com.br/dermotivin-soft-sabonete-espuma-130ml/p, Dermotivin Soft Sabonete Espuma 130ml, R$ 61,99, 7897930762176
+https://www.paguemenos.com.br/dermotivin-original-sabonete-liquido-300ml/p, Dermotivin Original Sabonete Líquido 300ml, R$ 88,99, 7897930761629
+https://www.paguemenos.com.br/kelo-cote-gel-15g/p, Kelo-cote Gel 15g, R$ 229,99, 7898040321871
+https://www.paguemenos.com.br/suavie-sabonete-liquido-140ml/p, Suavie sabonete Líquido 140ml, R$ 64,99, 3282770144437
+https://www.paguemenos.com.br/epidrat-labio-fps30-tubo-5-5g/p, Epidrat Lábio Fps30 Tubo 5,5g, R$ 73,99, 7891142143037
+https://www.paguemenos.com.br/creme-hidratante-para-areas-secas-isdin-ureadin-20-50g/p, Creme Ureadin 20 Isdin Hidratante Para Áreas Secas 50g, R$ 79,05, 7896422506564
+https://www.paguemenos.com.br/tonico-nivea-visage-adstringente-com-200ml/p, Tônico Facial NIVEA Controle do Brilho 200ml, R$ 26,99, 4005808811717
+https://www.paguemenos.com.br/esfoliante-nivea-bath-care-corpo-200ml/p, NIVEA Esfoliante Corporal para Banho 200ml, R$ 34,99, 4005808808243
+https://www.paguemenos.com.br/acnase-gel-20g/p, Acnase Gel Antiacne 20g, R$ 43,85, 7896082900047
+https://www.paguemenos.com.br/shampoo-a-seco-ricca-brisa-floral-150ml/p, Shampoo A Seco Ricca Brisa Floral 150ml, R$ 24,90, 7897517928421
+https://www.paguemenos.com.br/kit-dove-hidratacao-mais-hialuron-vit-shampoo-350ml-mais-condicionador-190ml/p, Kit Dove Hidratação + Hialuron-Vit Shampoo 350ml + Condicionador 190ml, R$ 25,99, 7891150103801
+https://www.paguemenos.com.br/kit-elseve-shampoo-bond-repair-complexo-250ml-mais-condicionador-complexo-200ml/p, Kit Elseve Shampoo Bond Repair Complexo 250ml + Condicionador Complexo 200ml, R$ 89,90, 7908966508925
+https://www.paguemenos.com.br/sabonete-liquido-nivea-derma-control-defende-frasco-250ml/p, Sabonete Líquido Nivea Derma Control Defende Frasco 250ml, R$ 14,90, 4006000179261
+https://www.paguemenos.com.br/protetor-solar-facial-sunless-50fps-com-base-clara-12g/p, Protetor Solar Facial Sunless 50fps Com Base Clara 12g, R$ 67,99, 7896902286795
+https://www.paguemenos.com.br/cuidado-reparador-calmante-la-roche-posay-fps50-cicaplast-baume-b5mais-40ml/p, Cuidado Reparador Calmante La Roche-Posay Fps50 Cicaplast Baume B5+ 40ml, R$ 119,99, Not Found
+https://www.paguemenos.com.br/serum-principia-peptideos-matryxil-10porcento-30ml/p, Sérum Principia Peptídeos Matryxil 10% 30ml, R$ 78,99, 0736532824851
+https://www.paguemenos.com.br/serum-eucerin-hyaluron-filler-30ml/p, Eucerin Hyaluron-Filler Sérum Epigenetic Facial 30ml, R$ 379,90, 4006000074405
+https://www.paguemenos.com.br/protetor-solar-em-bastao-ollie-cor-40-fps95-15g/p, Not Found, Not Found, 7898968269507
+https://www.paguemenos.com.br/protetor-solar-hidratante-facial-cerave-fps50-sem-perfume-52ml/p, Protetor Solar Hidratante Facial Cerave Fps50 Sem Perfume 52ml, R$ 99,99, 7908615090184
+https://www.paguemenos.com.br/protetor-solar-sallve-bastao-antimanchas-cor-3-fps90-15/p, Protetor Solar Sallve Bastão Antimanchas Cor 3 Fps90 15, R$ 99,99, 7908335406890
+https://www.paguemenos.com.br/shampoo-anticaspa-dercos-dermatologico-cabelos-secos-refil-200g/p, Shampoo Anticaspa Dercos Dermatológico Cabelos Secos Refil 200g, R$ 84,99, 7908615088105
+https://www.paguemenos.com.br/kit-principia-trio-gl-02---ps-01---vc-10/p, Kit Principia Trio Gl-02 + Ps-01 + Nc-10, R$ 151,97, Not Found
+https://www.paguemenos.com.br/serum-facial-creamy-vitamina-c-10porcento-30g/p, Sérum Facial Creamy Vitamina C 10% 30g, R$ 104,99, 7898965429102
+https://www.paguemenos.com.br/creme-corporal-intenso-eucerin-anti-pigment-200ml/p, Eucerin Anti-Pigment Creme Corporal Áreas Específicas 200ml, R$ 169,99, 4006000017389
+https://www.paguemenos.com.br/protetor-solar-la-roche-posay-anthelios-hydraox-hidratacao-fps60-40ml/p, Protetor Solar La Roche-Posay Anthelios Hydraox Hidratação Fps60 40ml, R$ 116,99, 7908785405399
+https://www.paguemenos.com.br/kit-cerave-creme-hidratante-454g-gratis-gel-de-limpeza-sem-perfume-40g/p, Kit Cerave Creme Hidratante 454g Grátis Gel De Limpeza Sem Perfume 40g, R$ 112,99, 7908785422471
+https://www.paguemenos.com.br/sabonete-dermatologico-dercutan-90g/p, Sabonete Dermatológico Dercutan 90g, R$ 29,90, 7898244720586
+https://www.paguemenos.com.br/serum-corporal-eucerin-anti-pigment-areas-sensiveis-75ml/p, Eucerin Anti-Pigment Sérum Corporal Áreas Sensíveis 75ml, R$ 179,90, 4006000014401
+https://www.paguemenos.com.br/gel-creme-facial-creamy-retinol-30g/p, Gel Creme Facial Creamy Retinol 30g, R$ 104,99, 7898965429249
+https://www.paguemenos.com.br/hidratante-facial-creamy-calming-cream-40g/p, Hidratante Facial Creamy Calming Cream 40g, R$ 59,99, 7898965429195
+https://www.paguemenos.com.br/kit-loreal-protetor-solar-facial-expertise-antirrugas-fps60-40g-gratis-gel-de-limpeza-revitalift-suavizante-40g/p, Kit Loreal Protetor Solar Facial Expertise Antirrugas Fps60 40g Grátis Gel De Limpeza Revitalift Suavizante 40g, R$ 54,99, 7908785422075
+https://www.paguemenos.com.br/protetor-solar-facial-actine-antioleosidade-sem-cor-fps60-30g/p, Protetor Solar Facial Actine Antioleosidade Sem Cor Fps60 30g, R$ 59,99, 3282770399219
+https://www.paguemenos.com.br/gel-de-limpeza-suave-dercutan-150g/p, Gel De Limpeza Suave Dercutan 150g, R$ 45,00, 7898244720685
+https://www.paguemenos.com.br/shampoo-dermatologico-darrow-doctar-plus-anticaspa-intensivo-380ml/p, Shampoo Dermatológico Darrow Doctar Plus Anticaspa Intensivo 380ml, R$ 148,99, 3282770397260
+https://www.paguemenos.com.br/sallve-bastao-antioleosidade-15g/p, Bastão Antioleosidade Sallve  15g, R$ 99,99, 7908335406340
+https://www.paguemenos.com.br/protetor-solar-facial-la-roche-posay-com-cor-1-0-anthelios-ultra-cover-fps60-30g/p, Protetor Solar Facial La Roche-Posay Com Cor 1.0 Anthelios Ultra Cover Fps60 30g, R$ 92,99, 7908615096216
+https://www.paguemenos.com.br/protetor-solar-facial-vichy-antioleosidade-fps60-40g/p, Protetor Solar Facial Vichy Antioleosidade Fps60 40g, R$ 99,99, 7899706251334
+https://www.paguemenos.com.br/serum-capilar-3porcento-baicapil-mais-3porcento-cafeina-principia-sc-01-50ml/p, Sérum Capilar 3% Baicapil + 3% Cafeína Principia Sc-01 50ml, R$ 68,99, 0609963220588
+https://www.paguemenos.com.br/hidratante-corporal-locao-principia-lh-01-200ml/p, Hidratante Corporal Loção Principia Lh-01 200ml, R$ 38,99, 0609963220687
+https://www.paguemenos.com.br/shampoo-antiqueda-principia-aq-01-250ml/p, Shampoo Antiqueda Principia Aq-01 250ml, R$ 43,99, 0609963220786
+https://www.paguemenos.com.br/vichy-dercos-refil-shampoo-anticaspa-ds-cabelos-normais-a-oleosos-200g/p, Vichy Dercos Refil Shampoo Anticaspa Ds Cabelos Normais A Oleosos 200g, R$ 84,99, 7908615088136
+https://www.paguemenos.com.br/kit-nivea-sun-protetor-solar-facial-antissinais-fps70-40ml-mais-creme-facial-antissinais-5-em-1-100g/p, Kit Nivea Sun Protetor Solar Facial Antissinais Fps70 40ml + Creme Facial Antissinais 5 Em 1 100g, R$ 52,99, 4006000136776
+https://www.paguemenos.com.br/protetor-solar-facial-loreal-expertise-the-invisible-fps60-40ml/p, Protetor Solar Facial Loréal Expertise The Invisible Fps60 40ml, R$ 74,99, 7908615077710
+https://www.paguemenos.com.br/creme-reparador-protetor-avene-cicalfate-40ml-com-rs20-00-de-desconto/p, Creme Reparador Protetor Avène Cicalfate 40ml com R$20,00 de Desconto, R$ 66,99, 3282770397406
+https://www.paguemenos.com.br/emulsao-corporal-principia-200ml/p, Emulsão Corporal Principia 200ml, R$ 48,99, 0609963220625
+https://www.paguemenos.com.br/vitamina-c-pura-principia-95porcento-mais-5porcento-acido-ferulico-po-ultrafino-10g/p, Vitamina C Pura Principia 95% + 5% Ácido Ferúlico Pó Ultrafino 10g, R$ 63,99, 0609963220458
+https://www.paguemenos.com.br/protetor-solar-facial-biore-perfect-milk-fps50-40ml/p, Protetor Solar Facial Bioré Perfect Milk FPS50 40ml, R$ 74,99, 4901301303844
+https://www.paguemenos.com.br/serum-antimanchas-la-roche-posay-mela-b3-30ml/p, Mela B3 La Roche-Posay Sérum Antimanchas 30ml, R$ 289,99, 3337875890021
+https://www.paguemenos.com.br/pantogar-men-com-90-capsulas/p, Pantogar men com 90 Capsulas, R$ 379,99, 7896112408147
+https://www.paguemenos.com.br/protetor-solar-facial-filtrum-color-cor-2-0-fps70-50g/p, Protetor Solar Facial Filtrum Color Cor 2.0 Fps70 50g, R$ 71,99, 7896094211872
+https://www.paguemenos.com.br/isdin-fusion-fluid-mineral-fps-50-com-50ml/p, Isdin Fusion Fluid Mineral Fps 50 Com 50ml, R$ 114,99, 8429420210554
+https://www.paguemenos.com.br/hydraporin-ai-oleo-de-limpeza-190ml/p, Hydraporin Ai Óleo De Limpeza 190ml, R$ 78,99, 7891142983152
+https://www.paguemenos.com.br/cetaphil-oil-control-gel-de-limpeza-facial-anti-oleosidade-250ml/p, Cetaphil Oil Control Gel De Limpeza Facial Anti Oleosidade 250ml, R$ 68,99, 7897930778146
+https://www.paguemenos.com.br/cetaphil-oil-control-hidratante-matificante-anti-manchas-89ml/p, Cetaphil Oil Control Hidratante Matificante Anti Manchas 89ml, R$ 129,99, 7897930778177
+https://www.paguemenos.com.br/cetaphil-creme-hidratante-travel-size-59g/p, Cetaphil Creme Hidratante Travel Size 59g, R$ 35,99, 7897930778498
+https://www.paguemenos.com.br/episol-intense-hydra-spray-fps50-200ml/p, Episol Intense Hydra Spray Fps50 200ml, R$ 109,99, 7891142982759
+https://www.paguemenos.com.br/protetor-solar-adcos-peach-uva-fps-50-50g/p, Protetor Solar Adcos Peach Uva Fps 50 50g, R$ 178,99, 7897975695460
+https://www.paguemenos.com.br/locao-hidratante-corporal-dermovance-ai-500ml/p, Loção Hidratante Corporal Dermovance Ai 500ml, R$ 161,99, 7898244720074
+https://www.paguemenos.com.br/gel-de-limpeza-facial-effaclar-concentrado-la-roche-posay-300g-com-20porcento-de-desconto/p, Effaclar Concentrado Gel de Limpeza Facial La Roche-Posay 300g - 20% de Desconto, R$ 87,99, 7908615017457
+https://www.paguemenos.com.br/kit-protetor-solar-neutrogena-sun-fresh-fps50-200ml-com-80porcento-de-desconto-no-neutrogena-sun-fresh-fps50-120ml/p, Kit Protetor Solar Neutrogena Sun Fresh Fps50 200ml Com 80% De Desconto No  Neutrogena Sun Fresh Fps50 120ml, R$ 88,99, 7891010256098
+https://www.paguemenos.com.br/kit-protetor-solar-corporal-ultraleve-fps-50-200ml-mais-50porcento-de-desconto-no-protetor-solar-corporal-fps-50-120ml-loreal-paris/p, Kit Protetor Solar Corporal Ultraleve FPS 50 200ml + Protetor Solar Corporal  Loréal Paris FPS50 120ml, R$ 104,99, 7908615026954
+https://www.paguemenos.com.br/protetor-solar-facial-anthelios-airliciummais-la-roche-posay-fps-80-cor-2-0-com-40g/p, Protetor Solar Facial Anthelios Airlicium+ FPS 80 Cor 2.0 40g, R$ 102,99, 7908615031484
+https://www.paguemenos.com.br/heliomax-fps70-protetor-solar-gel-creme-cor-medio-50g/p, Heliomax Fps70 Protetor Solar Gel Creme Cor Medio 50g, R$ 69,99, 7898244720159
+https://www.paguemenos.com.br/actine-aquafluid-fps60-antioleosidade-textura-aqua-sem-cor-40g/p, Actine Aquafluid Fps60 Antioleosidade Textura Aqua Sem Cor 40g, R$ 69,99, 3282770390896
+https://www.paguemenos.com.br/gel-hidratante-dermatologico-actine-aquaforce-com-40g/p, Gel Hidratante Dermatológico Actine Aquaforce Com 40g, R$ 71,99, 3282770390513
+https://www.paguemenos.com.br/avene-cicalfatemais-creme-reparador-protetor-100ml/p, Avène Cicalfate+ Creme Reparador Protetor 100ml, R$ 108,99, 3282770391756
+https://www.paguemenos.com.br/shampoo-anticaspa-pielus-di-400ml/p, Shampoo Anticaspa Pielus Di 400ml, R$ 157,99, 7891142982704
+https://www.paguemenos.com.br/espuma-cremosa-de-limepza-effaclar-reequilibrante-la-roche-posay-100g/p, Espuma Cremosa De Limepza Effaclar Reequilibrante La Roche-Posay 100g, R$ 87,99, 7899706208482
+https://www.paguemenos.com.br/cerave-locao-hidratante-50ml/p, Loção Hidratante Cerave Para Pele Seca a Extra Seca 50 g, R$ 42,99, 7908615015484
+https://www.paguemenos.com.br/fisiogel-creme-200g/p, Fisiogel Creme 200g, R$ 46,99, 7896026172639
+https://www.paguemenos.com.br/protetor-solar-dauf-facial-fps-30-controle-de-oleosidade-60ml/p, Protetor Solar Facial Dauf Controle de Oleosidade FPS30 60ml, R$ 37,99, 7896048609700
+https://www.paguemenos.com.br/sabonete-facial-clean-up-pele-oleosa-e-acneicas-60g/p, Sabonete facial Clean Up pele Oleosa e acneicas 60g, R$ 31,99, 7896006219743
+https://www.paguemenos.com.br/protetor-solar-dauf-fps50-mineral-peles-sensiveis-60ml/p, Protetor Solar Mineral Dauf Peles Sensíveis FPS50 60ml, R$ 49,99, 7896048609694
+https://www.paguemenos.com.br/spray-corporal-antiacne-isdin-acniben-com-150ml/p, Spray Corporal Antiacne ISDIN Acniben 150ml, R$ 149,99, 8429420222212
+https://www.paguemenos.com.br/protetor-solar-stick-dauf-fps50/p, Protetor Solar Stick Dauf Fps50, R$ 69,99, 7896048609717
+https://www.paguemenos.com.br/protetor-solar-dauf-stick-fps90-12g/p, Protetor Solar Dauf Stick Fps90 12g, R$ 79,99, 7896048609755
+https://www.paguemenos.com.br/kit-protetor-solar-dauf-fps60-mais-protetor-solar-fps60-aerossol/p, Kit Protetor solar dauf Fps60 +  protetor Solar Fps60 Aerossol, R$ 69,99, 7898727352280
+https://www.paguemenos.com.br/cerave-oleo-de-limpeza-hidratante-236ml/p, Cerave Oleo De Limpeza Hidratante 236ml, R$ 95,99, 7908615013855
+https://www.paguemenos.com.br/protetor-solar-cenoura-bronze-fps30-200ml-mais-protetor-solar-cenoura-bronze-facial-fps30-50g-com-preco-especial/p, Protetor Solar Cenoura & Bronze Fps30 200ml Mais Protetor Solar Cenoura & Bronze Facial Fps30 50g Com Preço Especial, R$ 57,99, 7896108566165
+https://www.paguemenos.com.br/fisiogel-a-i-balsamo-lipidico-restaurador-400g/p, Fisiogel a.i. Balsamo Lipídico restaurador 400g, R$ 193,99, 7896026172844
+https://www.paguemenos.com.br/locao-intensiva-hidratante-neutrogena-nwg-200ml/p, Hidratante Corporal Intensivo NeutrogenaNorwegian sem fragrância, 200mL, R$ 62,99, 7891010254957
+https://www.paguemenos.com.br/actine-protetor-solar-fps60-com-cor-gratis-gel-de-limpeza-40g/p, Actine Protetor Solar Fps60 Com Cor Grátis Gel De Limpeza 40g, R$ 57,99, 3282779340830
+https://www.paguemenos.com.br/avene-cleanance-gel-de-limpeza-150g-gratis-avene-cleanance-gel-40g/p, Avène Cleanance Gel De Limpeza 150g Grátis Avène Cleanance Gel 40g, R$ 61,99, 3282779340298
+https://www.paguemenos.com.br/pantogar-resist-silicio-com-30-saches/p, Suplemento Alimentar Pantogar Resist em Pó Silicio Sem Sabor 10g 30 Saches, R$ 224,99, 7896112405962
+https://www.paguemenos.com.br/hidratante-labial-nivea-hidra-color-vermelho-4-8g/p, Hidratante labial Nivea Hidra Color Vermelho Fps30 4,8g, R$ 25,99, 4005900921574
+https://www.paguemenos.com.br/dercos-vichy-sensi-scalp-creme-de-limpeza-300ml/p, Dercos Vichy Sensi Scalp Creme De Limpeza 300ml, R$ 139,99, 7899706190602
+https://www.paguemenos.com.br/ivy-c-sabonete-liquido-facial-200ml/p, Ivy C Sabonete liquido facial 200ml, R$ 71,99, 7891142207036
+https://www.paguemenos.com.br/bioderma-sensibio-gel-de-limpeza-moussant-pele-sensivel-200ml/p, Bioderma Sensibio Gel Moussant Gel de Limpeza Micelar Calmante e Hidratante 200ml, R$ 101,99, 0602883999619
+https://www.paguemenos.com.br/cetaphil-hidratante-facial-pro-ar-calm-50ml/p, Cetaphil hidratante Facial pro ar Calm 50ml, R$ 126,99, 3499320012508
+https://www.paguemenos.com.br/cicatricure-protetor-solar-antissinais-fps-50-efeito-matte-com-40g/p, Cicatricure Protetor Solar Antissinais Fps 50 Efeito Matte Com 40g, R$ 51,99, 7898636192489
+https://www.paguemenos.com.br/hidra-kids-da-locao-infantil-hidratante-200g/p, Loção Hidratante Infantil Hidra Kids D.A. Pele Sensível 200g, R$ 121,15, 7896112403319
+https://www.paguemenos.com.br/contractubex-gel-bisnaga-com-50g/p, Contractubex Redutor de Cicatrizes em Gel 50G, R$ 240,31, 7896112403425
+https://www.paguemenos.com.br/epidrat-hyalu-50ml/p, Epidrat Hyalu 50ml, R$ 129,99, 7891142206114
+https://www.paguemenos.com.br/imecap-actsun-fps-60-50g-protetor-solar-facial-sem-cor-com-acido-hialuronico/p, Protetor Solar Facial Imecap Actsun FPS60 50g, R$ 35,99, 7898040328825
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-rosto-e-corpo-fps70-200ml/p, Neostrata Minesol Protetor Solar Rosto E Corpo Fps70 200ml, R$ 140,99, 7891010254032
+https://www.paguemenos.com.br/cetaphil-pro-ureia-10porcento-creme-hidratante-60g/p, Cetaphil Pro Ureia 10% Creme Hidratante 60g, R$ 47,99, 7897930777651
+https://www.paguemenos.com.br/protetor-solar-nivea-facial-beauty-expert-sensitive-fps50-50g/p, Protetor Solar Nivea Facial Beauty Expert Sensitive Fps50/60 50g, R$ 59,99, 4005900837677
+https://www.paguemenos.com.br/effaclar-gel-de-limpeza-alta-tolerancia-refil-240g/p, Effaclar Gel De Limpeza Alta Tolerancia Refil 240g, R$ 88,99, 7899706187213
+https://www.paguemenos.com.br/neosil-attack-com-60-comprimidos-revestidos/p, Neosil Attack Com 60 Comprimidos Revestidos, R$ 234,99, 7896004820439
+https://www.paguemenos.com.br/eucerin-aquaphor-pomada-reparadora-49g/p, Eucerin Aquaphor Pomada Reparadora Intensiva 50g, R$ 94,99, 4005800223136
+https://www.paguemenos.com.br/eucerim-anti-pigment-creme-facial-para-noite-50ml/p, Eucerim Anti-Pigment Creme Facial Para Noite 50ml, R$ 229,99, 4005900559517
+https://www.paguemenos.com.br/eucerin-anti-pigment-dual-serum-facial-30ml/p, Eucerin Anti-pigment Clareador Dual Sérum Facial 30ml, R$ 307,99, 7319470066786
+https://www.paguemenos.com.br/protetor-solar-eucerin-sun-fluido-pigment-control-fps60-50ml/p, Protetor Solar Eucerin Sun Fluido Pigment Control Fps60 50ml, R$ 114,99, 4005800241901
+https://www.paguemenos.com.br/glycare-sabonete-liquido-300ml/p, Sabonete Líquido Mantecorp Glycare 300ml, R$ 97,99, 7891142206817
+https://www.paguemenos.com.br/glycare-sabonete-liquido-150ml/p, Glycare Sabonete Liquido 150ml, R$ 61,99, 7891142206800
+https://www.paguemenos.com.br/dermotivin-soft-pele-seca-ou-sensibilizada-sabonete-liquido-300ml/p, Dermotivin Soft Pele Seca Ou Sensibilizada Sabonete Líquido 300ml, R$ 88,99, 7897930777538
+https://www.paguemenos.com.br/umbrella-perfefct-skin-tom-escuro-fps50-50g/p, Umbrella Perfefct Skin Tom Médio Fps50 50g, R$ 109,99, 7896026171274
+https://www.paguemenos.com.br/sabonete-liquido-para-pele-oleosa-e-acneica-dermotivin-benzac-oil-control-70ml/p, Sabonete Líquido Para Pele Oleosa E Acneica Dermotivin Benzac Oil Control 70ml, R$ 34,99, 7897930777545
+https://www.paguemenos.com.br/fisiogel-a-i-balsamo-lipidico-restaurador-150g/p, Fisiogel A.I. Bálsamo Lipídico Restaurador 150g, R$ 106,99, 7896026171472
+https://www.paguemenos.com.br/bepantol-derma-hidratante-restaurador-locao-facial-noturna-50ml/p, Bepantol Derma Hidratante Restaurador Loção Facial Noturna 50ml, R$ 87,99, 7891106914611
+https://www.paguemenos.com.br/bepantol-derma-hidratante-restaurador-400ml/p, Bepantol Derma Hidratante Restaurador Loção Corporal Diária 400ml, Pele Seca, R$ 109,99, 7891106914581
+https://www.paguemenos.com.br/doctar-plus-shampoo-anticaspa-intensivo-120ml/p, Doctar Plus Shampoo Anticaspa Intensivo 120ml, R$ 81,99, 3282770143935
+https://www.paguemenos.com.br/nutriol-pele-seca-sabonete-liquido-240ml/p, Nutriol Pele Seca Sabonete Líquido 240ml, R$ 65,99, 3282770144376
+https://www.paguemenos.com.br/epidrat-corpo-intensivo-hidratante-para-pele-seca-450g/p, Epidrat Corpo Intensivo Hidratante Para Pele Seca 450g, R$ 109,99, 7891142205865
+https://www.paguemenos.com.br/ducray-anaphasemais-shampoo-antiqueda-400ml/p, Ducray Anaphase+ Shampoo Antiqueda 400ml, R$ 142,99, 3282770075526
+https://www.paguemenos.com.br/profuse-nutrel-gel-de-limpeza-facial-sensitive-150ml/p, Profuse Nutrel Gel De Limpeza Facial Sensitive 150ml, R$ 69,99, 7896658032714
+https://www.paguemenos.com.br/protetor-solar-helioderm-suncare-fps30-200ml/p, Protetor Solar Helioderm Suncare Fps30 200ml, R$ 26,99, 7896331705362
+https://www.paguemenos.com.br/imecap-rejuvenescedor-facial-colageno-sabor-frutas-citricas-com-30-saches/p, Imecap Face 30 Sachês, R$ 102,99, 7898040328566
+https://www.paguemenos.com.br/protetor-solar-corporal-australian-gold-fps70-gel-creme-200g/p, Protetor Solar Corporal Australian Gold FPS70 Gel Creme 200g, R$ 83,99, 7891033777365
+https://www.paguemenos.com.br/protetor-solar-neutrogena-sun-fresh-facial-fps70-40g/p, Protetor Solar Neutrogena Sun Fresh Facial Fps70 40g, R$ 69,99, 7891010250997
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-facial-oil-control-fps70-pele-morena-mais-40g/p, Neostrata Minesol Protetor Solar Facial Oil Control Fps70 Pele Morena Mais 40g, R$ 84,99, 7891010250805
+https://www.paguemenos.com.br/epidac-oc-sabonete-liquido-150ml/p, Epidac Oc Sabonete Liquido 150ml, R$ 46,99, 7891142205537
+https://www.paguemenos.com.br/actine-colors-protetor-solar-fps70-cor-pele-clara-toque-seco-40g/p, Actine Colors Protetor Solar Fps70 Cor Pele Clara Toque Seco 40g, R$ 77,99, 3282770207699
+https://www.paguemenos.com.br/creme-facial-nivea-fresh-gel-100ml/p, Creme Facial nivea fresh gel 100ml, R$ 38,90, 0000042398004
+https://www.paguemenos.com.br/avene-cleanance-gel-400g/p, Avène Cleanance Gel 400g, R$ 102,99, 3282770150599
+https://www.paguemenos.com.br/ivy-c-aox-gel-30-gramas/p, Gel Rejuvenecedor Facial Mantecorp Ivy C Aox 30g, R$ 249,99, 7891142204257
+https://www.paguemenos.com.br/epidrat-mat-hidratante-facial-fps30-sem-cor-40ml/p, Protetor Solar Hidratante Epidrat Mat Sem Cor FPS 30 40ml, R$ 94,99, 7891142207555
+https://www.paguemenos.com.br/episol-intense-fps60-200ml/p, Episol Intense Fps60 200ml, R$ 109,99, 7891142205131
+https://www.paguemenos.com.br/anthelios-hydraox-com-cor-fps60-50g/p, Anthelios Hydraox Com Cor Fps60 50g, R$ 107,99, 3337875735780
+https://www.paguemenos.com.br/euryale-c-serum-anti-idade-facial-50g/p, Euryale C Serum Anti Idade Facial 50g, R$ 206,99, 7897129304552
+https://www.paguemenos.com.br/protetor-solar-facial-dauf-fps80-cor-bege-claro-60ml/p, Protetor Solar Facial Dauf Fps80 Cor Bege Claro 60ml, R$ 56,99, 7896048607898
+https://www.paguemenos.com.br/kit-com-2-unidades-de-fisiogel-ai-400ml-leve-a-segunda-unidade-com-50porcento-de-desconto/p, Kit Com 2 Unidades De Fisiogel Ai 400ml Leve A Segunda Unidade Com 50% De Desconto, R$ 235,99, 7896026172332
+https://www.paguemenos.com.br/anthelios-ae-pigmentation-protetor-solar-anti-idade-fps50-clareador-cor-clara-40g/p, Protetor Solar Anti-Idade Anthelios Ae Pigmentation FPS 50 Clareador Cor Clara 40g, R$ 123,99, 7899706178204
+https://www.paguemenos.com.br/anthelios-ae-pigmentation-protetor-solar-anti-idade-fps50-clareador-sem-cor-40g/p, Protetor Solar Anti Idade Anthelios Ae Pigmentation FPS 50 Clareador Sem Cor 40g, R$ 123,99, 7899706178341
+https://www.paguemenos.com.br/avene-cleanance-comedomed-30ml/p, Avène Cleanance Comedomed Sérum Facial Anti Acne 30ml, R$ 156,99, 3282770202854
+https://www.paguemenos.com.br/lumier-age-com-30-saches/p, Lumier Age Com 30 Sachês, R$ 179,99, 7896006217374
+https://www.paguemenos.com.br/hidratante-facial-dauf-com-acido-glicolico-50g/p, Hidratante facial Dauf com ácido glicólico 50g, R$ 34,99, 7896048602282
+https://www.paguemenos.com.br/protetor-solar-dauf-facial-fps80-60ml/p, Protetor Solar Dauf Facial Fps80 60ml, R$ 54,99, 7896048607768
+https://www.paguemenos.com.br/actine-control-sabonete-para-pele-oleosa-70g/p, Actine control sabonete Para pele Oleosa 70g, R$ 33,99, 3282770388596
+https://www.paguemenos.com.br/soapelle-sabonete-barra-70g/p, Soapelle sabonete Barra 70g, R$ 39,99, 3282770388640
+https://www.paguemenos.com.br/umbrella-intelligent-protetor-solar-facial-fps99-50g/p, Umbrella Intelligent Protetor Solar Facial Fps99 50g, R$ 119,99, 7896026171281
+https://www.paguemenos.com.br/sabonete-liquido-facial-nupill-vitamina-c-200ml/p, Sabonete liquido facial Nupill vitamina C 200ml, R$ 38,99, 7898911309588
+https://www.paguemenos.com.br/fisiogel-locao-fps50-60ml/p, Fisiogel Loção Fps50 60ml, R$ 52,99, 7896026172301
+https://www.paguemenos.com.br/shampoo-ducray-kertyol-p-s-o-100ml/p, Shampoo Ducray kertyol p.s.o 100ml, R$ 112,99, 3282770147414
+https://www.paguemenos.com.br/ducray-kelual-ds-shampoo-100ml/p, Ducray kelual Ds Shampoo 100ml, R$ 89,99, 3282770147391
+https://www.paguemenos.com.br/condicionador-ducray-densiage-200ml/p, Condicionador Ducray densiage 200ml, R$ 112,99, 3282770113037
+https://www.paguemenos.com.br/protetor-solar-neutrogena-sun-fresh-fps90-200ml/p, Protetor Solar Neutrogena Sun Fresh Fps90 200ml, R$ 111,99, 7891010249106
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-oil-control-fps70-50porcento-desconto-na-2-unidade/p, Neostrata Minesol Protetor Solar Oil Control Fps70 50% Desconto Na 2° Unidade, R$ 150,99, 7891010248703
+https://www.paguemenos.com.br/protetor-solar-nivea-ph-fps30-200ml-gratis-protetor-solar-nivea-ph-fps30-100ml/p, Protetor Solar Nivea Ph Fps30 200ml Grátis Protetor Solar Nivea Ph Fps30 100ml, R$ 57,90, 4005900695543
+https://www.paguemenos.com.br/cr-facial-nivea-noturno-100g/p, NIVEA Creme Facial Noturno 100g, R$ 38,90, 0000042389248
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-facial-oil-control-fps30-toque-seco-40g/p, Neostrata Minesol Protetor Solar Facial Oil Control Fps30 Toque Seco 40g, R$ 80,99, 7891010248154
+https://www.paguemenos.com.br/neostrata-minesol-protetor-solar-rosto-e-corpo-fps99-200ml/p, Protetor Solar Corpo e Rosto Neostrata Minesol FPS 99 200ml, R$ 152,99, 7891010248130
+https://www.paguemenos.com.br/creme-facial-anti-idade-noturno-lorela-revitalift-hialuronico-50ml/p, Creme Hidratante Facial Anti-idade L'Oréal Paris Revitalift Hialurônico Noturno 49g, R$ 52,99, 7899706171588
+https://www.paguemenos.com.br/protetor-solar-facial-actine-10h-antioliosidade-fps60-toque-seco-40g/p, Protetor Solar Facial Actine 10h Antioliosidade Fps60 Toque Seco 40g, R$ 57,99, 3282770206036
+https://www.paguemenos.com.br/agua-micelar-limpeza-facial-isdin-micellar-solution-com-400ml/p, Água Micelar Limpeza Facial ISDIN Micellar Solution 400ml, R$ 83,99, 8429420163577
+https://www.paguemenos.com.br/cetaphil-pro-ac-control-espuma-de-limpeza-facial-para-pele-oleosa-236ml/p, Cetaphil Pro Ac Control Espuma De Limpeza Facial Para Pele Oleosa 236ml, R$ 88,99, 3499320004497
+https://www.paguemenos.com.br/hydraporin-ai-sabores-liquido-hidratante-para-peles-secas-e-sensiveis-200ml/p, Hydraporin Ai Sabores Liquido Hidratante Para Peles Secas E Sensiveis 200ml, R$ 93,99, 7891142204288
+https://www.paguemenos.com.br/creme-antirruga-nivea-q10-plus-c-fps15-dia-51g/p, Creme Facial NIVEA  Antissinais Q10 Energy Dia FPS15 50g, R$ 46,99, 4005900079664
+https://www.paguemenos.com.br/cetaphil-sabonete-facial-limpeza/p, Cetaphil sabonete Facial limpeza, R$ 34,99, 3499320008198
+https://www.paguemenos.com.br/bepantriz-derma-creme-20g/p, Bepantriz Derma Creme Hidratante com Dexpantenol 20g, R$ 28,99, 7897947612273
+https://www.paguemenos.com.br/bepantriz-solucao-spray-50ml/p, Bepantriz Solução Spray 50ml, R$ 23,99, 7897947612334
+https://www.paguemenos.com.br/desodorante-la-roche-posay-sensitive-skin-48h-150ml/p, Desodorante La Roche-Posay Sensitive Skin 48h 150ml, R$ 139,99, 3337872412141
+https://www.paguemenos.com.br/sabonete-dauf-facial-gel-120gmaissabonete-dauf-facial-esfoliante-100g/p, Sabonete dauf Facial gel 120g+sabonete dauf Facial esfoliante 100g, R$ 39,99, 7896048607485
+https://www.paguemenos.com.br/fisiogel-ai-locao-cremosa-100ml/p, Fisiogel ai Loção Cremosa 100ml, R$ 86,99, 7896026171366
+https://www.paguemenos.com.br/fisiogel-locao-cremosa-100ml/p, Fisiogel loção cremosa 100ml, R$ 44,99, 7896026171397
+https://www.paguemenos.com.br/doctar-sensi-shampoo-anticaspa-120ml/p, Doctar Sensi Shampoo Anticaspa 120ml, R$ 78,99, 3282770200614
+https://www.paguemenos.com.br/avene-a-oxitive-serum-30ml/p, Avene A-Oxitive Sérum 30ml, R$ 254,99, 3282770101669
+https://www.paguemenos.com.br/cerave-locao-de-limpeza-hidratante-473ml/p, Cerave Loção de Limpeza Hidratante 473 ml, R$ 112,99, 7899706159357
+https://www.paguemenos.com.br/cerave-sa-creme-renovador-de-pes-88ml/p, Cerave sa Creme Renovador De pés 88ml, R$ 104,99, 7899706190480
+https://www.paguemenos.com.br/cerave-locao-facial-hidratante-52ml/p, Cerave Loção Facial Hidratante 52ml, R$ 99,99, 7899706186698
+https://www.paguemenos.com.br/klavie-clinical-sabonete-liquido-150ml/p, Klavie Clinical Sabonete Liquido 150ml, R$ 46,99, 7897129304224
+https://www.paguemenos.com.br/kerium-ds-shampoo-anticaspa-intensivo-125ml/p, Kerium Ds Shampoo Anticaspa Intensivo 125ml, R$ 154,99, 7899706152860
+https://www.paguemenos.com.br/gel-secativo-dauf-anti-acne-20g/p, Gel Secativo dauf Anti-acne 20g, R$ 22,99, 7896048606815
+https://www.paguemenos.com.br/locao-adstringente-dauf-165ml/p, Loção Adstringente Dauf 165ml, R$ 18,99, 7896048606785
+https://www.paguemenos.com.br/sabonete-esfoliante-facial-dauf-para-pele-oleosa-ou-acneica-100g/p, Sabonete esfoliante Facial dauf Para pele Oleosa ou Acneica 100g, R$ 24,99, 7896048606792
+https://www.paguemenos.com.br/avene-cleanance-gel-300ml/p, Gel de Limpeza Facial Avène Cleanance 300ml, R$ 87,99, 3282770148817
+https://www.paguemenos.com.br/sabonete-liquido-hidratante-isdin-ureadin-bath-gel-com-424g/p, ISDIN Sabonete Líquido Corporal Ureadin Bath Gel - 424g, R$ 85,99, 8429420121959
+https://www.paguemenos.com.br/gel-de-limpeza-neutrogena-acne-proofing-200ml/p, Gel De limpeza neutrogena Acne proofing 200ml, R$ 52,99, 7891010974886
+https://www.paguemenos.com.br/sabonete-facial-effaclar-alta-tolerancia-la-roche-posay-70g/p, Sabonete facial Effaclar alta Tolerância la Roche-Posay 70g, R$ 66,99, 7899706149198
+https://www.paguemenos.com.br/sabonete-facial-effaclar-concentrado-la-roche-posay-70g/p, Sabonete Facial Effaclar Concentrado La Roche-posay 70g, R$ 66,99, 7899706149211
+https://www.paguemenos.com.br/la-roche-posay-protetor-solar-anthelios-xl-protect-fps60-40g/p, La roche-posay protetor Solar Anthelios Xl protect fps60 40g, R$ 86,99, 7899706172226
+https://www.paguemenos.com.br/agua-micelar-5-em-1-de-loreal-paris-400ml/p, Água Micelar L'Oréal Paris Solução de Limpeza 5 em 1, 400ml, R$ 51,99, 7899706130677
+https://www.paguemenos.com.br/dermovance-s-500ml/p, Dermovance S 500ml, R$ 172,99, 7898040325404
+https://www.paguemenos.com.br/sunmax-intense-fps60-pele-normal-120g/p, Sunmax intense fps60 pele Normal 120g, R$ 76,99, 7896026172219
+https://www.paguemenos.com.br/bepantol-derma-creme-40g/p, Bepantol Derma Creme Hidratante Multirrestaurador 40g, Pele Extrasseca, R$ 64,99, 7891106911733
+https://www.paguemenos.com.br/protetor-solar-corporal-l-oreal-paris-solar-expertise-supreme-protect-4-fps-70-200ml/p, Protetor Solar Corporal L'oréal Paris Solar Expertise Supreme Protect 4 Fps 70 200ml, R$ 85,99, 7899706135856
+https://www.paguemenos.com.br/protetor-solar-corporal-l-oreal-paris-solar-expertise-supreme-protect-4-fps-50-200ml/p, Protetor Solar Corporal L'oréal Paris Solar Expertise Supreme Protect 4 Fps 50 200ml, R$ 71,99, 7899706135818
+https://www.paguemenos.com.br/anthelios-xl-protect-fps70-200ml/p, Protetor Solar Corporal La Roche-Posay Anthelios XL Protect FPS 70 200ml, R$ 141,99, 7899706134217
+https://www.paguemenos.com.br/calamed-pos-sol-aloe-vera-gel-hidratante-120g/p, Pós Sol Calamed Aloe Vera Gel 120G, R$ 19,49, 7897947612266
+https://www.paguemenos.com.br/sunmax-sensitive-fps50-creme-60ml/p, Sunmax sensitive fps50 creme 60ml, R$ 95,99, 7896026172240
+https://www.paguemenos.com.br/clareador-e-protetor-solar-isdin-active-unify-sem-cor-fps99-com-50ml/p, ISDIN Clareador Facial Foto Ultra Active Unify Sem Cor FPS 99 - 50ml, R$ 149,99, 8429420093232
+https://www.paguemenos.com.br/sunmax-fluid-fps55-pele-oleosa-mista-120ml/p, Sunmax fluid fps55 pele Oleosa/ Mista 120ml, R$ 77,99, 7896026172189
+https://www.paguemenos.com.br/protetor-solar-dauf-facial-fps60-60ml/p, Protetor Solar Dauf Facial Fps60 60ml, R$ 42,99, 7896048606228
+, Request Error, Request Error, Request Error

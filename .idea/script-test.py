@@ -2,6 +2,7 @@ import requests
 import re
 import pandas as pd
 from bs4 import BeautifulSoup
+from pathlib import Path
 
 def extract_product_name(soup):
     """
@@ -80,17 +81,24 @@ def extract_ean_barcode(html_text):
     return 'Not Found'
 
 def main():
-    """
-    Main function to scrape product data from a list of URLs and save it
-    to .txt and .xlsx files.
-    """
-    # Read URLs from the external file
+    # --- Corrected Indentation Starts Here ---
+
+    # Get the directory where this current script is located
+    script_dir = Path(__file__).resolve().parent
+
+    # Create the full path to urls.txt
+    file_path = script_dir / 'urls.txt'
+
+    print(f"Searching for file at: {file_path}")
+
     try:
-        with open('.idea/urls.txt', 'r') as f:
+        with open(file_path, 'r') as f:
             urls = [line.strip() for line in f.readlines()]
+        print("✅ Successfully found urls.txt!")
+
     except FileNotFoundError:
-        print("Error: urls.txt not found. Please create the file with a list of URLs.")
-        return
+        print(f"❌ Error: Could not find urls.txt at the expected path.")
+        return # Exit the script if the file is not found
 
     results = []
     headers = {
