@@ -84,14 +84,13 @@ def main():
     Main function to scrape product data from a list of URLs and save it
     to .txt and .xlsx files.
     """
-    # Predefined list of URLs to process
-    urls = [
-        "https://www.paguemenos.com.br/inalador-nebulizador-pague-menos-portatil-ultrassonico-mesh-nb1100/p?skuId=100141",
-        "https://www.paguemenos.com.br/fralda-pampers-confort-sec-giga-tamanho-xxg-com-60-unidades/p",
-        "https://www.paguemenos.com.br/fralda-pampers-confort-sec-xxg-56-unidades-o17a490578845z57/p",
-        "https://www.paguemenos.com.br/fralda-pampers-confort-sec-p-72-unidades/p",
-        # Add more URLs here
-    ]
+    # Read URLs from the external file
+    try:
+        with open('.idea/urls.txt', 'r') as f:
+            urls = [line.strip() for line in f.readlines()]
+    except FileNotFoundError:
+        print("Error: urls.txt not found. Please create the file with a list of URLs.")
+        return
 
     results = []
     headers = {
