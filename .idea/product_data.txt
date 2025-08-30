@@ -1,0 +1,11 @@
+URL, Product Name, Price, Barcode
+"https://www.paguemenos.com.br/inalador-nebulizador-pague-menos-portatil-ultrassonico-mesh-nb1100/p?skuId=100141", "Inalador/Nebulizador Pague Menos Portátil Ultrassônico Mesh NB1100", "Not Found", "7898727351795"
+"https://www.paguemenos.com.br/fralda-pampers-confort-sec-giga-tamanho-xxg-com-60-unidades/p", "Fralda Pampers Confort Sec XXG 60 Unidades", "Not Found", "7500435153386"
+"https://www.paguemenos.com.br/fralda-pampers-confort-sec-xxg-56-unidades-o17a490578845z57/p", "Fralda Pampers Confort Sec - XXG - 56 Unidades", "Not Found", "7500435132619"
+"https://www.paguemenos.com.br/fralda-pampers-confort-sec-p-72-unidades/p", "Fralda Pampers Confort Sec P 72 Unidades", "Not Found", "7500435181297"
+"https://www.paguemenos.com.br/cerave-creme-hidratante-453g/p", "Creme Hidratante CeraVe Pele Seca a Extra Seca 454 g", "Not Found", "7899706159197"
+"https://www.paguemenos.com.br/gel-de-limpeza-principia-gl-02-350g/p", "Gel de Limpeza Principia GL-02 350g", "Not Found", "0609963220755"
+"https://www.paguemenos.com.br/anthelios-ultra-cover-cor-3-0-fps60-30g/p", "La Roche-Posay Anthelios Ultra Cover Cor 3.0 FPS 60 Protetor Solar Facial Com Cor 30g", "Not Found", "7899706185844"
+"https://www.paguemenos.com.br/anthelios-airliciummais-fps80-40g/p", "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS80 40g", "Not Found", "7899706195027"
+"https://www.paguemenos.com.br/serum-principia-10porcento-vitamina-c-mais-0-5porcento-acido-ferulico-30ml/p", "Sérum Principia 10% Vitamina C + 0,5% Ácido Ferúlico 30ml", "Not Found", "0609963220359"
+"https://www.paguemenos.com.br/creme-facial-antimarcas-loreal-glycolic-bright-diurno-fps30-49g/p", "Creme Facial Antimarcas Loréal Glycolic Bright Diurno Fps30 49g", "Not Found", "7908615088983"

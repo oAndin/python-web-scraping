@@ -1,5 +1,5 @@
 URL, Product Name, Price, Barcode
-https://www.paguemenos.com.br/inalador-nebulizador-pague-menos-portatil-ultrassonico-mesh-nb1100/p?skuId=100141, Inalador/Nebulizador Pague Menos Portátil Ultrassônico Mesh NB1100, Not Found, 7898727351795
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-giga-tamanho-xxg-com-60-unidades/p, Fralda Pampers Confort Sec XXG 60 Unidades, Not Found, 7500435153386
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-xxg-56-unidades-o17a490578845z57/p, Fralda Pampers Confort Sec - XXG - 56 Unidades, Not Found, 7500435132619
-https://www.paguemenos.com.br/fralda-pampers-confort-sec-p-72-unidades/p, Fralda Pampers Confort Sec P 72 Unidades, Not Found, 7500435181297
+https://www.paguemenos.com.br/inalador-nebulizador-pague-menos-portatil-ultrassonico-mesh-nb1100/p?skuId=100141, Inalador/Nebulizador Pague Menos Portátil Ultrassônico Mesh NB1100, R$ 169,99, 7898727351795
+https://www.paguemenos.com.br/fralda-pampers-confort-sec-giga-tamanho-xxg-com-60-unidades/p, Fralda Pampers Confort Sec XXG 60 Unidades, R$ 122,99, 7500435153386
+https://www.paguemenos.com.br/fralda-pampers-confort-sec-xxg-56-unidades-o17a490578845z57/p, Fralda Pampers Confort Sec - XXG - 56 Unidades, R$ 140,90, 7500435132619
+https://www.paguemenos.com.br/fralda-pampers-confort-sec-p-72-unidades/p, Fralda Pampers Confort Sec P 72 Unidades, R$ 112,99, 7500435181297

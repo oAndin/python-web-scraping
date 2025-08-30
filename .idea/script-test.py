@@ -33,10 +33,20 @@ def extract_product_price(soup):
         str: The product price, or 'Not Found' if not found.
     """
     try:
-        # VTEX platform often uses this class for the selling price
+        # Find the container for the price
+        price_container = soup.find('span', class_='vtex-store-components-3-x-currencyContainer')
+        if price_container:
+            # Extract the integer and fraction parts of the price
+            integer_part = price_container.find('span', class_='vtex-store-components-3-x-currencyInteger').text
+            fraction_part = price_container.find('span', class_='vtex-store-components-3-x-currencyFraction').text
+            # Combine the parts to form the full price
+            return f"R$ {integer_part},{fraction_part}"
+
+        # Fallback to the old method if the new one fails
         price_element = soup.find('span', class_='vtex-product-price-1-x-sellingPriceValue')
         if price_element:
             return price_element.text.strip()
+
         return 'Not Found'
     except Exception:
         return 'Not Found'
